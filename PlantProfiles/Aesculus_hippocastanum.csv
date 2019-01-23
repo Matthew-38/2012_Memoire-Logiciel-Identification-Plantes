@@ -1,0 +1,106 @@
+#General
+Order	sapindales
+Family	sapindaceae
+Lifespan	perennial
+Foliage	dicidious
+Structure	tree
+Habit	upright
+Woodiness	woody
+Habitat	woodland, hedgerows, thickets
+Location	H1 (South Kerry), H2 (North Kerry), H3 (West Cork), H4 (Mid-Cork), H5 (East Cork), H6 (Waterford), H7 (South Tipperary), H8 (Limerick), H9 (Clare), H10 (North Tipperary), H11 (Kilkenny), H12 (Wexford), H13 (Carlow), H14 (Laois), H15 (South-east Galway), H16 (West Galway), H17 (North-east Galway), H18 (Offaly), H19 (Kildare), H20 (Wicklow), H21 (Dublin), H22 (Meath), H23 (Westmeath), H24 (Longford), H25 (Roscommon), H26 (East Mayo), H27 (West Mayo), H28 (Sligo), H29 (Leitrim), H30 (Cavan), H31 (Louth), H32 (Monaghan), H33 (Fermanagh), H34 (East Donegal), H35 (West Donegal), H36 (Tyrone), H37 (Armagh), H38 (Down), H39 (Antrim), H40 (Londonderry)
+Crown Type	domed, wide
+Plant Height	0,2500
+
+#Flower (♀/⚥)
+Flowering Period	may, june
+Flower Sex	dioecious,monoecious
+Ovary Position	inferior,superior# TODO: Edit/choose
+Perianth(P) Colour1	FFFFFF
+Perianth(P) Colour2	C13C67,DDD044
+Perianth(P) Number	4,5
+Perianth(P) Length	0.8,1
+Perianth(S) Colour1	575C22
+Perianth(S) Number	5
+Perianth(S) Shape	unequal#
+Perianth(S) Free	joined forming tube
+Flower Diameter	2
+Flowers Per Cluster	# TODO: Enter [min],max values here
+Peduncle Length	15,30
+Pedicel Length	#
+Stamens	6,7
+Stigma	1
+Ovaries	1
+Ovary Chambers	3
+
+#♂Flower
+♂Perianth(P) Colour1	FFFFFF
+♂Perianth(P) Colour2	C13C67,DDD044
+♂Perianth(S) Colour1	575C22
+♂Flowers Per Cluster	#
+♂Peduncle Length	#
+♂Stamens	6,7
+
+#Leaf
+Bud Shape	ovoid
+Bud Texture	sticky,glabrous
+Bud Length	1,3.5
+Bud Colour1	AC650D
+Bud Colour2	6C2626
+Leaflets	palmate
+Lflets Per Lf	5,7
+Lflet Stalk Length	0
+Lflet Length	8,26
+Leaf Position	#
+Lf(let) Shape	obovate,lanceolate
+Lf(let) Lobed	unlobed
+Lf(let) Margin	crenate, serrate
+Lf(let) Margin Decor	none
+Lf(let) Top Appearance	glabrous
+Lf(let) Underside Appearance	ciliate,glabrous
+Lf(let) Venation	pinnate
+Lf(let) Vein Pairs	20,40
+Lf(let) Tip	acute,acuminate
+Lf(let) Base	cuneate
+Petiole	petiolate
+Stipules	absent or lost early
+Leaf Length	10,30
+Petiole Length	0,20
+
+#Fruit
+Fruit Type	spiky globule
+Fruit Colour1	EFECA7,8E9B41,A96E6D
+Fruit Diameter	6
+Fruiting Period	august, september
+
+#Seed
+Seed Type	conker
+Seed Shape	globose
+Seed Texture	smooth
+Seed Colour1	992914,51333B
+Seed Colour2	B79278
+Seeds Per Fruit	1,3
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Thorns	absent
+Stem Texture	scaly
+Stem Colour1	776053,A1A189,8A8C81
+Stem Habit	1 main stem
+
+#Branches
+Branching Pattern	#
+Lower Branch Angle	~45' upright
+Twig Colour1	BD9067
+Twig Type	#
+Leaf Scar	horse shoe shaped
+#Root
+
+#Misc
+Name	Aesculus hippocastanum
+Common Name	Horse-chestnut
+Frequency	common
+Subspecies	none
+Similar Plants	Aesculus x carnea, Red Horse Chestnut is a hybrid with red flowers and spineless fruit. It is frequently planted as an ornamental.
+Native Status	Ireland,naturalised,Britain,naturalised
+Soil Preference	#

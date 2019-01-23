@@ -1,0 +1,27 @@
+In the programme base folder, along with the main programme files, there are several directories and
+other files. The following gives a summary of their purpose and how to edit them:
+
+� Text (.txt) files can be opened with any text editor:
+	Readme.txt (/help/) - A simple text file containing the help documentation.
+	License.txt (/Help/) - A file containing a temporary license statement.
+	Sources.txt (/Help/) - A file containing a full list of all stated sources.
+	Files.txt (/Help/) - This file.
+	About.txt (/Help/) - About information for Flora Diversa.
+	DIYguide.txt (/Help/) - A guide to creating and editing Plant Profiles and the Chars.csv file.
+	UnknownChars.txt (/) - A log file for recording characters that occur in plant profiles but do not exist in the master Chars.csv file (see below).
+	UnknownTerm.txt (/) - A log file for recording programme text used as default (that does not occur in the Character_Strings.csv file (see below)).
+	Settings.txt (/) - A settings file that overrides the default programme settings. Consists of Option:Value pairs.
+
+� Comma-Separated Values (.csv) files - Can be generated and imported (incompletely) by the programmee. Can be imported into and saved from Office as a spreadsheet, also editable by any plain text editor.
+	[Genus]_[species].csv (/PlantProfiles/) - Plant Profiles, containing characters values as defined in Chars.csv. Here the order is of no importance, just to be neat.
+	Chars.csv (/) - Dictates the available characters, how they are represented by the programme (including the possible values) and the order in which they appear (including what Divisors dictate them).
+	language.csv(/) - Contains the programme's text strings, including different languages (if included) and descriptions for tooltips (in some cases).
+
+� Image (.jpg,.gif) files - These include all the images used in all areas of the programme and can be opened with most image viewer programmes. They should have a watermarked source caption.
+	[Genus][Species][i].jpg (/Profiles) - Plant Profile images and photos, where 'I' indicates an indice for the image, the suffix is the same as that of the corresponding plant profile (.csv) file.
+	GIFs (/Help) - Images and illustrations used in the tooltip system and menus.
+	[Character-Name]_value-name[n].jpg (/Gdd/) These are a series of images for illustrated character selection.
+	
+Note that all directories are relative, where the initial / is based on the root of the programme (depends where you have it installed).
+
+I appreciate your comments, constructive criticism or bug reports. You can email me, Matthew O'Toole, at: vmatthewg@gmail.com

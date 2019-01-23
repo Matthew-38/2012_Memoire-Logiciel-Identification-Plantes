@@ -1,0 +1,117 @@
+#General
+Order	lamiales
+Family	oleaceae
+Lifespan	perennial
+Foliage	dicidious
+Structure	tree
+Habit	upright
+Woodiness	woody
+Habitat	hedgerows, woodland, rocky places
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	0,4000
+Crown Type	domed,light
+
+#Flower (♀/⚥)
+Flower Sex	monoecious,synoecious
+Flower Type	other inflorescence,catkin# TODO: Edit/choose
+Ovary Position	superior
+Flower Hairs	none
+Flower Scent	sickly-sweet# TODO: Edit/choose
+Perianth Distinct	absent
+Flower Colour1	783C56,B4A842
+Flower Colour2	9D565C
+Flower Diameter	# TODO: Enter [min],max values here
+Peduncle Length	# TODO: Enter [min],max values here
+Pedicel Length	# TODO: Enter [min],max values here
+Flowers Per Cluster	0,999
+Stamens	2
+Stigma	2
+Ovaries	1
+Ovary Chambers	2
+Flowering Period	april,may
+Flower Peduncle	present
+
+#♂Flower
+♂Flowers Per Cluster	0,999
+♂Peduncle Length	# TODO: Enter [min],max values here
+♂Stamens	2
+
+#Leaf
+Bud Shape	pyramidal
+Bud Texture	glabrous,rough
+Bud Colour1	#000000
+Bud Texture	smooth# TODO: Edit/choose
+Leaflets	once pinnate
+Pinnate Type	opposite-odd,opposite-even
+Leaf Position	opposite
+Lf(let) Shape	elliptic,lanceolate
+Lf(let) Lobed	unlobed
+Lf(let) Venation	pinnate
+Lf(let) Margin	serrate
+Lf(let) Margin Decor	none
+Lf(let) Tip	acuminate
+Lf(let) Base	acute
+Petiole	petiolate
+Stipules	absent or lost early
+Stipule Shape	absent
+Lf(let) Vein Pairs	10,15
+Bud Length	# TODO: Enter [min],max values here
+Leaf Ratio (L:W)	1.75,2
+Leaf Length	0,35
+Petiole Length	20,30
+Lflets Per Lf	13,25
+Lflet Stalk Length	0
+Lflet Length	3,12
+Lf(let) Top Appearance	glabrous,glossy
+Lf(let) Underside Appearance	ciliate,dull
+
+#Fruit
+Fruit Type	helicopter
+Fruit Shape	single winged
+Fruit Taste	sour# TODO: Edit/choose
+Fruit Cupule	none
+Fruit Colour1	8E9B41,EDD2B4
+Fruit Colour2	8A6342,D0965C
+Fruit Number	0,999
+Fruit Diameter	2.5,5
+Fruiting Period	july,august,september,october,november
+
+#Seed
+Seed Type	other
+Seed Released	no
+Seed Shape	globose
+Seed Texture	smooth# TODO: Edit/choose
+Seed Colour1	992914,51333B,DFAD7C,87643A# TODO: Edit/choose
+Seed Colour2	B79278# TODO: Edit/choose
+Seeds Per Fruit	1
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Stem Colour1	64696C
+Stem Colour2	282820,995121,9776# TODO: Edit/choose
+Stem Habit	main stem dividing early
+Thorn Length	# TODO: Enter [min],max values here
+Stem Texture	smooth,rough,fissured
+
+#Branches
+Branching Pattern	opposite
+Lower Branch Angle	~45' upright
+Leaf Scar	u-shaped
+Twig Colour1	81844D
+Twig Colour2	CCB05D
+Twig Type	smooth
+
+#Root
+#Misc
+Name	Fraxinus excelsior
+Common Name	Ash
+Frequency	abundant
+Subspecies	none
+Data Source(s)	David Sutton 1990
+Similar Plants	none
+Native Status	Ireland, native
+Soil Preference	alkaline
+Description	"A common tree, readily destinguished by its devided leaves in pairs on the stem and by its destinctive, winged fruits. In winter it is recognised by the prominant paired black buds.. It is sometimes planted for its tough timber"

@@ -1,0 +1,139 @@
+#Exported File. Depending on how you exported this file, it may need extensive editing. Make sure it is usable before copying it to PlantProfiles/ directory. Any lines without # must be complete in the following format: text [tab] text (=%s	%s
+). Lines with a '#' in them are ignored. It is safe to remove this line. 
+
+#General
+Order	apiales
+Family	araliaceae
+Lifespan	perennial
+Foliage	evergreen
+Structure	climber
+Habit	climbing,creeping
+Woodiness	woody
+Habitat	woodland,scrub,rocky places,roadsides,walls and trees
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	0,3000
+Crown Type	regular,wide,narrow,rounded,conical,dense
+
+#Flower (♀/⚥)
+Flower Observation	none of the above
+Flower Sex	dioecious
+Flower Type	other inflorescence
+Ovary Position	inferior
+Flower Scent	sickly-sweet,sweet,subtle,none# TODO: Edit/choose
+Flower Peduncle	sessile,glabrous,hairy# TODO: Edit/choose
+Perianth Distinct	distinct
+Pistil Colour1	B4A842,a0a660,ffe1cd
+Stamen Colour1	#
+Perianth(P) Colour1	EEDA00,A5A303
+Perianth(P) Colour2	#
+Perianth(S) Colour1	#
+Perianth(P) Hairs	none,present# TODO: Edit/choose
+Perianth(P) Free	free
+Perianth(S) Free	joined
+Perianth(S) Shape	triangular
+Perianth(S) Hairs	none,present# TODO: Edit/choose
+Perianth(P) Number	5
+Perianth(P) Length	0.3,0.4
+Perianth(S) Number	# TODO: Enter [min],max values here
+Perianth(S) Length	# TODO: Enter [min],max values here
+Flower Diameter	0.5,1
+Peduncle Length	# TODO: Enter [min],max values here
+Pedicel Length	# TODO: Enter [min],max values here
+Flowers Per Cluster	# TODO: Enter [min],max values here
+Stamens	5
+Stigma	1
+Ovaries	1
+Ovary Chambers	5
+Flowering Period	september,october,november,december
+
+#♂Flower
+♂Flower Type	solitary,catkin,other inflorescence# TODO: Edit/choose
+♂Stamen Colour1	B1AB46,c29451,FF0000# TODO: Edit/choose
+♂Perianth(P) Colour1	FFFFFF,9c9f17,fcf98f,c29451,FAD019,5C3607,B99236# TODO: Edit/choose
+♂Perianth(P) Colour2	9F7B67,c29451,C13C67,DDD044# TODO: Edit/choose
+♂Perianth(S) Colour1	575C22,FAD019# TODO: Edit/choose
+♂Flowers Per Cluster	# TODO: Enter [min],max values here
+♂Peduncle Length	# TODO: Enter [min],max values here
+♂Stamens	# TODO: Enter [min],max values here
+
+#Leaf
+Leaf Observation	none of the above
+Bud Shape	ovoid,rounded
+Bud Colour1	BE9C81
+Bud Colour2	#
+Leaflets	simple
+Pinnate Type	opposite-odd,opposite-even,alternate# TODO: Edit/choose
+Leaf Position	alternate
+Lf(let) Shape	deltoid
+Lf(let) Lobed	shallowly lobed,deeply lobed
+Lf(let) Venation	pinnate
+Lf(let) Margin	entire
+Lf(let) Margin Decor	none
+Lf(let) Tip	acute
+Lf(let) Base	auriculate
+Petiole	petiolate
+Stipules	absent or lost early
+Stipule Shape	absent
+Lf(let) Vein Pairs	1.5,2.5
+Bud Length	# TODO: Enter [min],max values here
+Leaf Ratio (L:W)	1,1.2
+Leaf Length	4,10
+Petiole Length	1,6
+Bud Texture	smooth,hairy,glabrous,sticky,rough# TODO: Edit/choose
+Lf(let) Top Appearance	glossy,coriaceous
+Lf(let) Underside Appearance	pale,coriaceous
+
+#Fruit
+Fruit Observation	none of the above
+Fruit Type	berry-like
+Fruit Shape	globose
+Fruit Peduncle	pedunculate
+Fruit Taste	toxic!
+Fruit Cupule	none
+Fruit Colour1	000000
+Fruit Colour2	#
+Fruit Number	# TODO: Enter [min],max values here
+Fruit Diameter	0.6,0.8
+Fruiting Period	january,feburary,december
+
+#Seed
+Seed Observation	orange fleshy seed coating,none of the above# TODO: Edit/choose
+Seed Type	other
+Seed Shape	globose
+Seed Released	no
+Seed Texture	smooth,leathery,rough# TODO: Edit/choose
+Seed Colour1	312225,E6D28B
+Seed Colour2	#
+Seeds Per Fruit	1
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Thorn Furrows	none
+Stem Colour1	836F54,77775D,626B5A
+Stem Colour2	#
+Stem Habit	1 main stem
+Thorn Length	# TODO: Enter [min],max values here
+Stem Texture	smooth,fluted,rough,flaking,scaly,fissured# TODO: Edit/choose
+
+#Branches
+Branching Pattern	opposite,alternate,dicotomous,complicated# TODO: Edit/choose
+Lower Branch Angle	perpendicular,drooping,~45' upright# TODO: Edit/choose
+Leaf Scar	horse shoe shaped,u-shaped,v-shaped,circular,oval# TODO: Edit/choose
+Twig Colour1	81844D,3E4B28
+Twig Colour2	#
+Twig Type	smooth
+
+#Root
+#Misc
+Name	Hedera helix
+Common Name	Ivy
+Frequency	abundant
+Subspecies	none
+Data Source(s)	CTW 1962
+Similar Plants	none
+Native Status	Ireland,native,Britain,native
+Soil Preference	undefined
+Description	An evergreen climber or creeper commonly found on trees or walls as well as old houses. Sometimes cultivated. The leaves are of 2 types: the palmately five-lobed juvenile leaves on creeping and climbing stems, and the unlobed cordate adult leaves on fertile flowering stems exposed to full sun, usually high in the crowns of trees or the top of rock faces.. Flowers green.

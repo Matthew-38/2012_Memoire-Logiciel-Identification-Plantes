@@ -1,0 +1,134 @@
+#General
+Order	sapindales
+Family	sapindaceae
+Lifespan	perennial
+Foliage	dicidious
+Structure	tree,shrub
+Habit	upright
+Woodiness	woody
+Habitat	mountains, woodland, hedgerows
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	3500
+Crown Type	regular,wide,domed,dense
+
+#Flower (♀/⚥)
+Flower Observation	none of the above
+Flower Sex	monoecious
+Flower Type	other inflorescence
+Ovary Position	inferior,half-inferior,superior# TODO: Edit/choose
+Flower Scent	sickly-sweet,sweet,subtle,none# TODO: Edit/choose
+Flower Peduncle	sessile,glabrous,hairy# TODO: Edit/choose
+Perianth Distinct	distinct
+Pistil Colour1	B4A842
+Stamen Colour1	B4A842
+Perianth(P) Colour1	FAD019
+Perianth(P) Colour2	#
+Perianth(S) Colour1	737917
+Perianth(P) Hairs	none,present# TODO: Edit/choose
+Perianth(P) Free	free,joined,joined forming tube# TODO: Edit/choose
+Perianth(S) Free	free,joined,joined forming tube# TODO: Edit/choose
+Perianth(S) Shape	triangular,elliptic# TODO: Edit/choose
+Perianth(S) Hairs	none,present# TODO: Edit/choose
+Perianth(P) Number	5
+Perianth(P) Length	# TODO: Enter [min],max values here
+Perianth(S) Number	5
+Perianth(S) Length	# TODO: Enter [min],max values here
+Flower Diameter	0.6
+Peduncle Length	# TODO: Enter [min],max values here
+Pedicel Length	5,20
+Flowers Per Cluster	60,100
+Stamens	8
+Stigma	2
+Ovaries	1
+Ovary Chambers	2
+Flowering Period	april,may
+
+#♂Flower
+♂Flower Type	other inflorescence
+♂Stamen Colour1	B1AB46
+♂Perianth(P) Colour1	fcf98f,FAD019
+♂Perianth(P) Colour2	#
+♂Perianth(S) Colour1	FAD019
+♂Flowers Per Cluster	60,100
+♂Peduncle Length	# TODO: Enter [min],max values here
+♂Stamens	8
+
+#Leaf
+Leaf Observation	leaves deeply lobed
+Bud Shape	ovoid
+Bud Colour1	8E8642,E1AF30,dbbd43
+Bud Colour2	783F2E
+Leaflets	simple
+Leaf Position	opposite
+Lf(let) Shape	fabellate,deltoid
+Lf(let) Lobed	deeply lobed
+Lf(let) Venation	palmate
+Lf(let) Margin	crenate
+Lf(let) Margin Decor	none
+Lf(let) Tip	acute
+Lf(let) Base	auriculate,cordate
+Petiole	petiolate
+Stipules	absent or lost early
+Stipule Shape	absent
+Lf(let) Vein Pairs	12,16
+Bud Length	0.6,1.2
+Leaf Ratio (L:W)	1,1.2
+Leaf Length	10,15
+Petiole Length	3,20
+Bud Texture	glabrous,hairy,rough
+Lf(let) Top Appearance	glabrous,glossy
+Lf(let) Underside Appearance	ciliate,dull
+
+#Fruit
+Fruit Observation	wing like bract attached to fruit
+Fruit Type	helicopter
+Fruit Shape	 paired winged
+Fruit Peduncle	pedunculate
+Fruit Taste	sour,nutty,toxic!,peppery grape,acid# TODO: Edit/choose
+Fruit Cupule	none
+Fruit Colour1	8E9B41,7b7d1e
+Fruit Colour2	D0965C
+Fruit Number	0,999
+Fruit Diameter	3.5,5
+Fruiting Period	june,july,august,september
+
+#Seed
+Seed Type	other
+Seed Shape	globose,irregular# TODO: Edit/choose
+Seed Released	no
+Seed Texture	smooth,leathery,rough# TODO: Edit/choose
+Seed Colour1	992914,51333B,776837,6D5237,3B3528,DFAD7C,87643A,7d561e# TODO: Edit/choose
+Seed Colour2	B79278# TODO: Edit/choose
+Seeds Per Fruit	1
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Thorn Furrows	none
+Stem Colour1	A1A189,64696C,8E8C91
+Stem Colour2	995121,cf9776
+Stem Habit	1 main stem
+Thorn Length	#
+Stem Texture	smooth,flaking,scaly,fissured
+
+#Branches
+Branching Pattern	opposite
+Lower Branch Angle	~45' upright
+Leaf Scar	v-shaped
+Twig Colour1	96513B,79582F,5C2A09,3D3332
+Twig Colour2	d4b1a5
+Twig Type	smooth,groved petiole
+
+#Root
+#Misc
+Name	Acer pseudoplatanus
+Common Name	Sycamore, Sycamore Maple
+Frequency	Common
+Subspecies	none
+Data Source(s)	Sutton 1990, Webb 1963,CTW 1962
+Similar Plants	Acer opalus, Italian Maple has more spiked leaves and it's fruit wings are in opposite directions.,Acer platanoides,Norway Maple has smaller and darker green leaves than sycamore and almost parrellel fruit wings.
+Native Status	Ireland, naturalised,Britain, naturalised
+Soil Preference	deep,moist,well drained
+Description	A large tree with greyish bark, Sycamore leaves are deeply palmate (5) lobed. Juice from petiole not milky. The fruit are distinct paired "helicopters" or "keys". Originally from the mountains in central Europe and asia, Sycamore's winged seads helped it naturalise in much of Europe once it was introduced.

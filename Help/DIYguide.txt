@@ -1,0 +1,69 @@
+This text outlines how to create your own plant profiles and edit them as well as how to edit the Chars.csv file.
+If you are looking for information of how the programme works, see the Overview. See the Readme.txt (Help) for getting started and how to use the programme in general.
+
+#####Overview of Character Types#####
+There are 3 main character types as well as 3 sub character types as follows:
+<<Int>> are the numerical entry boxes. In a Plant Profile, the data are usually as min,max. Despite being called Int, decimal point fractions are used. If only one number is supplied, a range will automatically be generated within the program as min=n-n*5%,max=n+n*5% where n is the given number.
+<<Mlt>> are lists from where the user may select multiple options. Here the data consist of comma (,) separated values which apply to the plant. It is better to err on the side of caution here and be generous with items for this list. Each item selected by the user gives a +1 or -1 to the plant, depending if it is on the list.
+<<Dbl>> are standard menus from which the user may only select one option. It may be useful to list several options however, as there can be some similar ones, or it could be somewhere in between 2 values. This is especially useful for colours which can vary (e.g. as a fruit ripens).
+ - <<Clr>> is a specific type of Dbl except that it expects a colour value (HTML code without the '#'). It also gives the user the option to select a more exact colour via the Advanced menu option. The menu button changes text colour to reflect the chosen option.
+ - <<Gdd>> is another specialisation menu, where the user may opt to select "Chooser" to see illustrations of the character values. This is essentially the same as <<Dbl>> except that illustrations are looked for in the (/Gdd/) folder.
+ - There is another special character built into some Divisors, for a selection at-a-glance of leaf/fruit/flower etc. images. It is not editable and depends on the photos available for characters and them being appropriately named.
+
+Bare in mind that all '#' lines in Chars.csv and PlantProfile files are ignored. Even if the '#' is further in the line. To this end, it is imperative that colours are given by a 6 digit base 16 integer without the '#' that is found in HTML colour codes. E.g. ffffff=white; 000000=black; and ff0000=red.
+
+#######Creating a Plant Profile######
+
+Plant Profiles can be created either by copying an existing (preferably similar) profile and editing it in a good text editor or a spreadsheet programme. A second way is to use the programme itself, either import a file and/or start setting the values to the plant you wish to create the profile for and click Export where you will be prompted some further data.
+By default new profiles are created in the (/usr/) directory. Here they may be edited and they will not be loaded by the programme (so there won't be errors if something is wrong). Here there is a python script that can check your file to see if it is compatible and if you need to add data to the Chars.csv file. See Scripts below.
+While you are entering the data in the programme, it is not possible to enter multiple data for the menu items. Also <<Int>> characters won't let you enter a comma to give a min and max value. Therefore it is necessary to edit the profile file after it is created.
+
+When you are happy with the file and have checked it for errors, you may move it to the (/PlantProfiles/) folder. 
+Finally, if you have added new colours, it may be a good idea to add these colours to the Chars file so that the user can find them easier. It is, however, preferable to use a pre-existing similar colour to prevent the menu from being over populated. A script exists to automate the process of updating the colours. See Scripts below.
+You may also wish to add photos to accompany your new Plant Profile. These take the same name as the Plant Profile except for a .jpg extension. The photos can be affixed with -leaves or -fruit(unripe) for example which will affect how they are used by the special at-a-glance image character uses them. Shorter filenames are listed first.
+For public distribution, any image that was not sourced from the Public Domain or Creative Commons Licence has been watermarked with the Author's initials. It is also recommended to include a caption and the date it was taken.
+
+######Editing the Chars.csv file######
+
+In the event that an entry in the Chars.csv file is insufficient in any way, it may be edited, replaced or a new line added by opening the file in one of 2 ways:
+As plain text: For this I recommend an advanced plain text editor such as Notepad++ (windows) or Kate ((K)Ubuntu). The non-print characters should be enabled so as to see all Tab spaces since this is crucial to the working of the file. UTF-8/Unicode is the character system.
+As a spread sheet: Using either Microsoft Excel or LO/OOo Calc, you may open this file. On import, you must select unquoted tabs as separations. Also UTF-8/Unicode is the character system.
+
+The types of characters are listed above under "Overview of Character Types". You may add values to them or add new characters as necessary. Normally a line consists as follows:
+Type>>Char Name>>val1,val2...>>@dep1,dep2...
+Where ">>" represents a tab (\t).
+Type consists of a 3 letter shortcut (Int,Mlt,Dbl,Clr or Gdd). The Char Name must be capitalised for each first letter. Meanwhile the values which are separated by commas must be in lower case. A 4th entry may be present in a line consisting of @ followed by comma separated dependency information.
+There are 4 types of Dependency functions:
+Cond:Char = val (sets the character Char to the value val)
+Cond:Char - val (sets the character Char to default if it is set to val)
+Cond:Char x state (sets the character Char to the given state (normal,disabled)
+Cond:Div divx state (sets the given divisor Div to the given state (normal, disabled)
+These dependencies are called when the character is set to the value Cond. It is important to have a counter dependency function for all x and divx ones to reset them. Especially for the 'unsure' value as Cond. It is now possible to stack dependencies for the same value. See the Chars.csv for some examples.
+
+################Scripts################
+There are 3 scripts included as detailed below. They may be executed from the command line (cmd) or console (ctrl-alt-t). They require python 2.7 and Tkinter (for the third) to be installed on your system in order to run.
+Linux: $./scriptname.py arg
+Windows: C:/Python2.7/Python.exe scriptname.py arg
+Directories vary.
+
+chkUsability.py arg=[dir/]nameoffile.csv
+This script is found in the /usr/ directory.
+This script checks the that the given file is bug free. it also checks to make sure that the characters and values therein are found in the Chars.csv file. If not, it will suggest you add them. It may be a misspelling, so be aware of this.
+This script saves its output to errors.log, overwriting each time.
+
+ColourUpdate.py [no arguments taken]
+This script is found in the root (/) programme directory.
+This script checks all the colours used in all the profiles found in the /PlantProfiles/ directory and proposes adding new ones to the Chars.csv file, as necessary. It requires no arguments but needs input to know what to do. Empty line or y proceeds while n skips the current option.
+Note that it saves to NewChars.csv. This is suppose to encourage back up making. On linux: 
+$mv Chars.csv Chars.bk
+$mv NewChars.csv Chars.csv
+
+ColourViewer.py col1,col2...
+This script is found in the root (/) programme directory.
+This script allows you to see a list of colours (separated by commas, no spaces) in a window. Useful for comparison. Enter the 6 digit 16 base value(s) of the colour(s) without the '#'.
+
+########################################
+
+Note that all directories are relative, where the initial / is based on the root of the programme (depends where you have it installed).
+
+I appreciate your comments, constructive criticism or bug reports. You can email me, Matthew O'Toole, at: vmatthewg@gmail.com

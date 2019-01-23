@@ -1,0 +1,134 @@
+#General
+Order	sapindales
+Family	sapindaceae
+Lifespan	perennial
+Foliage	dicidious
+Structure	tree
+Habit	upright
+Woodiness	woody
+Habitat	woodland, hedgerows
+Location	H1 (South Kerry),H2 (North Kerry),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H14 (Laois),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	2600
+Crown Type	regular,rounded,domed,dense
+
+#Flower (♀/⚥)
+Flower Observation	none of the above
+Flower Sex	monoecious
+Flower Type	other inflorescence
+Ovary Position	inferior,half-inferior,superior# TODO: Edit/choose
+Flower Scent	sickly-sweet,sweet,subtle,none# TODO: Edit/choose
+Flower Peduncle	sessile,glabrous,hairy# TODO: Edit/choose
+Perianth Distinct	distinct
+Pistil Colour1	B4A842
+Stamen Colour1	B4A842
+Perianth(P) Colour1	FAD019
+Perianth(P) Colour2	#
+Perianth(S) Colour1	737917
+Perianth(P) Hairs	none,present# TODO: Edit/choose
+Perianth(P) Free	free,joined,joined forming tube# TODO: Edit/choose
+Perianth(S) Free	free,joined,joined forming tube# TODO: Edit/choose
+Perianth(S) Shape	triangular,elliptic# TODO: Edit/choose
+Perianth(S) Hairs	none,present# TODO: Edit/choose
+Perianth(P) Number	5
+Perianth(P) Length	# TODO: Enter [min],max values here
+Perianth(S) Number	5
+Perianth(S) Length	# TODO: Enter [min],max values here
+Flower Diameter	0.6
+Peduncle Length	# TODO: Enter [min],max values here
+Pedicel Length	5,20
+Flowers Per Cluster	10,20
+Stamens	8
+Stigma	2
+Ovaries	1
+Ovary Chambers	2
+Flowering Period	april,june
+
+#♂Flower
+♂Flower Type	other inflorescence
+♂Stamen Colour1	B1AB46
+♂Perianth(P) Colour1	fcf98f,FAD019
+♂Perianth(P) Colour2	#
+♂Perianth(S) Colour1	FAD019
+♂Flowers Per Cluster	10,20
+♂Peduncle Length	# TODO: Enter [min],max values here
+♂Stamens	8
+
+#Leaf
+Leaf Observation	leaves deeply lobed
+Bud Shape	ovoid
+Bud Colour1	BE9C81,c47649
+Bud Colour2	8E8642
+Leaflets	simple
+Leaf Position	opposite
+Lf(let) Shape	fabellate,deltoid
+Lf(let) Venation	palmate
+Lf(let) Lobed	deeply lobed
+Lf(let) Margin	crenate
+Lf(let) Margin Decor	none
+Lf(let) Tip	acute
+Lf(let) Base	auriculate,cordate
+Petiole	petiolate
+Stipules	absent or lost early
+Stipule Shape	absent
+Lf(let) Vein Pairs	12,16
+Bud Length	0.3
+Leaf Ratio (L:W)	1,1.2
+Leaf Length	4,10
+Petiole Length	2,8
+Bud Texture	glabrous,hairy,smooth
+Lf(let) Top Appearance	glabrous,glossy
+Lf(let) Underside Appearance	ciliate,dull
+
+#Fruit
+Fruit Observation	wing like bract attached to fruit
+Fruit Type	helicopter
+Fruit Shape	 paired winged
+Fruit Peduncle	pedunculate
+Fruit Taste	sour,nutty,toxic!,peppery grape,acid# TODO: Edit/choose
+Fruit Cupule	none
+Fruit Colour1	8E9B41,7b7d1e
+Fruit Colour2	D0965C
+Fruit Number	0,999
+Fruit Diameter	2,4
+Fruiting Period	may,june,july,august,september
+
+#Seed
+Seed Type	other
+Seed Shape	globose,irregular# TODO: Edit/choose
+Seed Released	no
+Seed Texture	smooth,leathery,rough# TODO: Edit/choose
+Seed Colour1	992914,51333B,776837,6D5237,3B3528,DFAD7C,87643A,7d561e# TODO: Edit/choose
+Seed Colour2	B79278# TODO: Edit/choose
+Seeds Per Fruit	1
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Thorn Furrows	none
+Stem Colour1	A1A189,64696C,8E8C91
+Stem Colour2	995121,cf9776
+Stem Habit	1 main stem
+Thorn Length	#
+Stem Texture	rough,flaking,fissured
+
+#Branches
+Branching Pattern	opposite
+Lower Branch Angle	~45' upright
+Leaf Scar	v-shaped
+Twig Colour1	96513B,79582F,5C2A09,3D3332
+Twig Colour2	d4b1a5
+Twig Type	hairy,groved petiole
+
+#Root
+#Misc
+Name	Acer campestre
+Common Name	Field Maple
+Frequency	rare
+Subspecies	none
+Data Source(s)	Sutton 1990, Webb 1963,CTW 1962
+Similar Plants	Acer pseudoplatanus,Sycamore is easily distinguished by its more prominant lobing (5 lobes) of the leaves as well as its pendulus flowers and fruit wings being closer together (approx. right angled). Overall a taller tree. Petioles don't have milky juice.
+Native Status	Ireland, simi-naturalised,Britain, native
+Soil Preference	chalk,limestone
+Description	A small tree, sometimes shrub. Field maple leaves are deeply palmate (3 or 5) lobed. The petioles have milky juice. The fruit are distinct paired "helicopters" or "keys", which spread horizontally.

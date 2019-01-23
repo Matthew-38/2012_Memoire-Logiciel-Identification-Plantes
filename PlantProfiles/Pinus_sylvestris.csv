@@ -1,0 +1,118 @@
+#General
+Order	pinales
+Family	pinaceae
+Lifespan	perennial
+Foliage	evergreen
+Structure	tree
+Habit	upright
+Woodiness	woody
+Habitat	woodland,forest
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	0,4000
+Crown Type	irregular,wide,narrow,domed,rounded,conical,dense,light
+
+#Flower (♀/⚥)
+Flower Observation	none of the above
+Flower Sex	monoecious
+Flower Type	cone
+Ovary Position	#
+Flower Scent	none
+Flower Peduncle	sessile
+Perianth Distinct	absent
+Pistil Colour1	FC6AAB
+Flower Diameter	# TODO: Enter [min],max values here
+Peduncle Length	# TODO: Enter [min],max values here
+Pedicel Length	# TODO: Enter [min],max values here
+Flowers Per Cluster	1,5
+Stamens	# TODO: Enter [min],max values here
+Stigma	# TODO: Enter [min],max values here
+Ovaries	# TODO: Enter [min],max values here
+Ovary Chambers	# TODO: Enter [min],max values here
+Flowering Period	may,june
+
+#♂Flower
+♂Flower Type	cone
+♂Stamen Colour1	E5E163,c29451,FB886B
+♂Flowers Per Cluster	# TODO: Enter [min],max values here
+♂Peduncle Length	# TODO: Enter [min],max values here
+♂Stamens	# TODO: Enter [min],max values here
+
+#Leaf
+Leaf Observation	paired needles
+Bud Shape	ovoid
+Bud Colour1	BE9C81,9a5f5d
+Bud Colour2	#
+Leaflets	simple
+Leaf Position	alternate
+Lf(let) Shape	acicular
+Lf(let) Lobed	unlobed
+Lf(let) Venation	parallel
+Lf(let) Margin	entire,serrate,denticulate
+Lf(let) Margin Decor	none
+Lf(let) Tip	cuspidate
+Lf(let) Base	cuneate
+Petiole	sessile
+Stipules	absent or lost early
+Stipule Shape	absent
+Lf(let) Vein Pairs	# TODO: Enter [min],max values here
+Bud Length	0.6,1.2
+Leaf Ratio (L:W)	30,50
+Leaf Length	3,7
+Petiole Length	0
+Bud Texture	glabrous,sticky
+Lf(let) Top Appearance	glabrous,glossy,coriaceous
+Lf(let) Underside Appearance	glabrous,glossy,coriaceous
+
+#Fruit
+Fruit Observation	none of the above
+Fruit Type	cone
+Fruit Shape	ovoid
+Fruit Peduncle	sessile
+Fruit Taste	sour,revolting,nutty,toxic!,peppery grape,acid# TODO: Edit/choose
+Fruit Cupule	none
+Fruit Colour1	716348,C8905D,935c3c,A36124
+Fruit Colour2	8A6342,D0965C,C8905D
+Fruit Number	1
+Fruit Diameter	3,7
+Fruiting Period	january,feburary,march,april,may,june,july,august,september,october,november,december# TODO: Edit/choose
+
+#Seed
+Seed Observation	none of the above
+Seed Type	winged nutlet
+Seed Shape	irregular
+Seed Released	yes
+Seed Texture	rough
+Seed Colour1	7d561e,6D5237,87643A
+Seed Colour2	B79278
+Seeds Per Fruit	0,999
+Seed Diameter	0.3,1.5
+#Seed diam - depends if you count wing
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Stem Colour1	836F54,64696C,5F494D,7a6a5b,BDA177
+Stem Colour2	95998a,CF9776
+Stem Habit	1 main stem
+Stem Texture	rough,flaking,scaly,fissured
+
+#Branches
+Branching Pattern	alternate
+Lower Branch Angle	perpendicular
+Leaf Scar	horse shoe shaped,u-shaped,v-shaped,circular,oval# TODO: Edit/choose
+Twig Colour1	7d561e,79582F,BD9067
+Twig Colour2	#
+Twig Type	smooth,groved petiole
+
+#Root
+#Misc
+Name	Pinus sylvestris
+Common Name	Pine, Scots Pine
+Frequency	occasional
+Subspecies	none
+Data Source(s)	Sutton 1990, CTW 1962
+Similar Plants	none
+Native Status	Ireland,native,Britain,native
+Soil Preference	tolerates poor soil
+Description	A widespread conifer, one of several species with paired needles, Scots Pine is destinguished by its reddish, scaly bark on the upper trunk; its relatively short, bluish needles; a small hanging cone; and small buds with scales pressed close together. Commonly planted in forests for timber.

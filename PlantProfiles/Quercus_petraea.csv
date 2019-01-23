@@ -1,0 +1,138 @@
+#General
+Order	fagales
+Family	fagaceae
+Lifespan	perennial
+Foliage	dicidious
+Structure	tree
+Habit	upright
+Woodiness	woody
+Habitat	woodland
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	4500
+Crown Type	wide,rounded
+
+#Flower (♀/⚥)
+Flower Observation	none of the above
+Flower Sex	monoecious
+Flower Type	other inflorescence
+Ovary Position	inferior,superior# TODO: Edit/choose
+Flower Scent	none
+Perianth Distinct	absent,petals only,sepals only,indistinct,distinct# TODO: Edit/choose
+Pistil Colour1	8d171d,c1b2a0
+Stamen Colour1	#
+Perianth(P) Colour1	983030
+Perianth(P) Colour2	#
+Perianth(S) Colour1	#
+Perianth(P) Hairs	#
+Perianth(P) Free	#
+Perianth(S) Free	#
+Perianth(S) Shape	#
+Perianth(S) Hairs	#
+Perianth(P) Number	6
+Perianth(P) Length	#
+Perianth(S) Number	#
+Perianth(S) Length	#
+Flower Diameter	# TODO: Enter [min],max values here
+Peduncle Length	# TODO: Enter [min],max values here
+Pedicel Length	#
+Flowers Per Cluster	#
+Stamens	0
+Stigma	3
+Ovaries	1
+Ovary Chambers	3
+Flowering Period	april,may
+Flower Peduncle	sessile
+
+#♂Flower
+♂Flower Type	catkin
+♂Stamen Colour1	FF0000,c29451
+♂Perianth(P) Colour1	9c9f17,fcf98f,c29451
+♂Perianth(P) Colour2	c29451
+♂Perianth(S) Colour1	#
+♂Flowers Per Cluster	0,999
+♂Peduncle Length	2,4
+♂Stamens	6,12
+
+#Leaf
+Leaf Observation	none of the above
+Bud Shape	ovoid
+Bud Colour1	AC650D,9a5f5d
+Bud Colour2	#
+Bud Texture	hairy
+Leaflets	simple
+Pinnate Type	#
+Leaf Position	alternate
+Lf(let) Shape	obovate
+Lf(let) Lobed	shallowly lobed
+Lf(let) Venation	pinnate
+Lf(let) Margin	entire
+Lf(let) Margin Decor	none
+Lf(let) Tip	rounded
+Lf(let) Base	acute
+Petiole	petiolate
+Stipules	absent or lost early
+Stipule Shape	#
+Lf(let) Vein Pairs	5,8
+Bud Length	0.5,0.6
+Leaf Ratio (L:W)	#
+Leaf Length	7,12.5
+Petiole Length	1.8,2.5
+Lflets Per Lf	#
+Lflet Stalk Length	#
+Lflet Length	#
+Lf(let) Top Appearance	glabrous,glossy
+Lf(let) Underside Appearance	ciliate,dull
+
+#Fruit
+Fruit Observation	acorns
+Fruit Type	nut
+Fruit Shape	ovoid
+Fruit Taste	nutty
+Fruit Cupule	closely overlapping scales
+Fruit Colour1	977e7a,935c3c,7b7d1e,973b0a
+Fruit Colour2	#
+Fruit Number	2,6
+Fruit Diameter	1.5,3
+Fruiting Period	september,october
+Fruit Peduncle	sessile
+
+#Seed
+Seed Type	other
+Seed Shape	# TODO: Edit/choose
+Seed Released	no
+Seed Texture	# TODO: Edit/choose
+Seed Colour1	# TODO: Edit/choose
+Seed Colour2	# TODO: Edit/choose
+Seeds Per Fruit	# TODO: Enter [min],max values here
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Thorn Furrows	#
+Stem Colour1	ebf3f5,95998a,7a6a5b,8f8170
+Stem Colour2	ebf3f5,95998a
+Stem Habit	1 main stem
+Thorn Length	0
+Stem Texture	rough,fissured
+
+#Branches
+Branching Pattern	alternate
+Lower Branch Angle	perpendicular
+Leaf Scar	u-shaped
+Twig Colour1	806a1d,9994b4
+Twig Colour2	d4b1a5
+Twig Type	smooth,groved petiole
+
+#Root
+#Misc
+Name	Quercus petraea
+Common Name	Oak, Sessile Oak, Irish Oak
+Frequency	common
+Subspecies	none
+Data Source(s)	David Sutton 1990, Webb 1963
+Similar Plants	Quercus robur,Q. robur has a more obovate leaf shape with a cordate or auriculate leaf base. The leaf underside is less (or not at all) hairy. The petioles are shorter and generally not groved and the acorns are smaller and pedunculate., Quercus robur x petraea, Such hybrids tends to have non sessile acorns (of Q. robur) and long petioles and hairy leaves (of Q. petraea)
+Native Status	Ireland,native,Britain,native
+Soil Preference	heavey fertile soil
+Description	A strong and long lived tree with distinct lobed leaves and acorn fruit (borne in involucre 'cups'. Flowers with leaves. Less vulnerable to insect damage than other Oaks.

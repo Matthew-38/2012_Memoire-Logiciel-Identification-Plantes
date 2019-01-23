@@ -1,0 +1,128 @@
+#General
+Order	dipsacales
+Family	 adoxaceae
+Lifespan	perennial
+Foliage	evergreen
+Structure	tree
+Habit	upright
+Woodiness	woody
+Habitat	hedgerows
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	1000
+Crown Type	irregular,rounded
+
+#Flower (♀/⚥)
+Flower Observation	none of the above
+Flower Sex	synoecious
+Flower Type	other inflorescence
+Ovary Position	inferior,superior# TODO: Edit/choose
+Flower Scent	sweet
+Flower Peduncle	glabrous
+Perianth Distinct	distinct
+Pistil Colour1	#
+Stamen Colour1	ffffbe
+Perianth(P) Colour1	FFFFFF
+Perianth(P) Colour2	#
+Perianth(S) Colour1	ffffff
+Perianth(P) Hairs	none,present# TODO: Edit/choose
+Perianth(P) Free	free
+Perianth(S) Free	joined forming tube
+Perianth(S) Shape	triangular,elliptic# TODO: Edit/choose
+Perianth(S) Hairs	none,present# TODO: Edit/choose
+Perianth(P) Number	5
+Perianth(P) Length	# TODO: Enter [min],max values here
+Perianth(S) Number	5
+Perianth(S) Length	# TODO: Enter [min],max values here
+Flower Diameter	0.5
+Peduncle Length	5,7
+Pedicel Length	1,6
+Flowers Per Cluster	0,999
+Stamens	5
+Stigma	3,5
+Ovaries	1
+Ovary Chambers	# TODO: Enter [min],max values here
+Flowering Period	june,july
+
+#Leaf
+Leaf Observation	teeth curved towards apex
+Bud Shape	slender (pointed)
+Bud Colour1	7D9739
+Bud Colour2	#
+Leaflets	once pinnate
+Pinnate Type	opposite-odd
+Leaf Position	opposite
+Lf(let) Shape	elliptic
+Lf(let) Lobed	unlobed
+Lf(let) Venation	pinnate
+Lf(let) Margin	serrate
+Lf(let) Margin Decor	none
+Lf(let) Tip	acuminate
+Lf(let) Base	unequal
+Petiole	petiolate
+Stipules	absent or lost early
+Stipule Shape	inconspicuous
+Lf(let) Vein Pairs	6,9
+Bud Length	1
+Leaf Ratio (L:W)	2.2,2.5
+Leaf Length	15,20
+Petiole Length	3.5,5
+Lflets Per Lf	5,9
+Lflet Stalk Length	0.2,0.5
+Lflet Length	3,12
+Bud Texture	smooth,glabrous
+Lf(let) Top Appearance	glabrous,glossy
+Lf(let) Underside Appearance	ciliate,glabrous,dull
+
+#Fruit
+Fruit Observation	none of the above
+Fruit Type	berry-like
+Fruit Shape	globose
+Fruit Peduncle	pedunculate
+Fruit Taste	acid
+Fruit Cupule	none
+Fruit Colour1	000000
+Fruit Colour2	#
+Fruit Number	0,999
+Fruit Diameter	0.6,0.8
+Fruiting Period	august,september
+
+#Seed
+Seed Type	other
+Seed Shape	globose,irregular# TODO: Edit/choose
+Seed Released	no
+Seed Texture	leathery
+Seed Colour1	992914,51333B,776837,6D5237,3B3528,DFAD7C,87643A,7d561e# TODO: Edit/choose
+Seed Colour2	B79278# TODO: Edit/choose
+Seeds Per Fruit	3
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Thorn Furrows	#
+Stem Colour1	A1A189,c47649
+Stem Colour2	95998a
+Stem Habit	multi-stem (suckering),crooked
+Thorn Length	#
+Stem Texture	rough,fissured
+
+#Branches
+Branching Pattern	opposite
+Lower Branch Angle	drooping
+Leaf Scar	u-shaped
+Twig Colour1	466105,3E4B28
+Twig Colour2	#
+Twig Type	smooth,groved petiole
+
+#Root
+#Misc
+Name	Sambucus nigra
+Common Name	Elder
+Frequency	common
+Subspecies	none
+Data Source(s)	Sutton 1990, Webb 1963
+Similar Plants	Sambucus ebulus, S. ebulus is much smaller with smaller flower heads and more lanceolate leaflets. Anthurs usually on outside of corella and tinged purple-pink. Toxic!
+Native Status	Ireland,native,Britain,native
+Soil Preference	damp,rich, disturbed soil
+Description	A ragged tree with graish corky park and branches containing abundant soft pith. Leaves several oval, pointed, toothed leaflets. Heavely scented flowers, acidic-sweet fruit. The leaves are unpleasant smelling and toxic.

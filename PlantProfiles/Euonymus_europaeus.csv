@@ -1,0 +1,125 @@
+#General
+Order	celastrales
+Family	celestraceae
+Lifespan	perennial
+Foliage	dicidious
+Structure	tree,shrub
+Habit	upright
+Woodiness	woody
+Habitat	scrub,woodland
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	200,600
+Crown Type	irregular,wide,light
+
+#Flower (♀/⚥)
+Flower Observation	none of the above
+Flower Sex	synoecious
+Flower Type	other inflorescence
+Ovary Position	inferior,half-inferior,superior# TODO: Edit/choose
+Flower Scent	none
+Flower Peduncle	sessile,glabrous,hairy# TODO: Edit/choose
+Perianth Distinct	distinct
+Pistil Colour1	67A914
+Stamen Colour1	E9DDA9
+Perianth(P) Colour1	BDDB79
+Perianth(P) Colour2	#
+Perianth(S) Colour1	737917
+Perianth(P) Hairs	none,present# TODO: Edit/choose
+Perianth(P) Free	free
+Perianth(S) Free	free,joined# TODO: Edit/choose
+Perianth(S) Shape	triangular,elliptic# TODO: Edit/choose
+Perianth(S) Hairs	none,present# TODO: Edit/choose
+Perianth(P) Number	4
+Perianth(P) Length	# TODO: Enter [min],max values here
+Perianth(S) Number	4
+Perianth(S) Length	0.1,0.2
+Flower Diameter	0.8,1.0
+Peduncle Length	# TODO: Enter [min],max values here
+Pedicel Length	# TODO: Enter [min],max values here
+Flowers Per Cluster	3,10
+Stamens	4
+Stigma	1
+Ovaries	1
+Ovary Chambers	4
+Flowering Period	may,june
+
+#Leaf
+Leaf Observation	none of the above
+Bud Shape	curved,ovoid,pyramidal
+Bud Colour1	BE9C81,8E8642,512620,7D9739
+Bud Colour2	#
+Leaflets	simple
+Leaf Position	opposite
+Lf(let) Shape	elliptic,lanceolate,ovate
+Lf(let) Lobed	unlobed
+Lf(let) Venation	palmate,pinnate,parallel,arcuate# TODO: Edit/choose
+Lf(let) Margin	denticulate
+Lf(let) Margin Decor	none
+Lf(let) Tip	acuminate,acute
+Lf(let) Base	acute,cuneate
+Petiole	petiolate
+Stipules	absent or lost early
+Stipule Shape	absent
+Lf(let) Vein Pairs	4,6
+Bud Length	0.2,0.6
+Leaf Ratio (L:W)	# TODO: Enter [min],max values here
+Leaf Length	3,13
+Petiole Length	0.6,1.2
+Bud Texture	smooth,hairy,glabrous,sticky,rough# TODO: Edit/choose
+Lf(let) Top Appearance	ciliate,glabrous,glossy,dull,glaucous,coriaceous# TODO: Edit/choose
+Lf(let) Underside Appearance	ciliate,glabrous,glossy,dull,glaucous,coriaceous# TODO: Edit/choose
+
+#Fruit
+Fruit Observation	none of the above
+Fruit Type	4-lobed pod-like berry
+Fruit Shape	globose, 4-lobed
+Fruit Peduncle	pedunculate
+Fruit Taste	sour,nutty,toxic!,peppery grape,acid# TODO: Edit/choose
+Fruit Cupule	none,woody splitting 4-wise,green lobed,closely overlapping scales# TODO: Edit/choose
+Fruit Colour1	FC4E4D
+Fruit Colour2	711b1f
+Fruit Number	# TODO: Enter [min],max values here
+Fruit Diameter	1.0,1.5
+Fruiting Period	september,october
+
+#Seed
+Seed Observation	orange fleshy seed coating
+Seed Type	other
+Seed Shape	globose
+Seed Released	yes
+Seed Texture	smooth
+Seed Colour1	992914
+Seed Colour2	#
+Seeds Per Fruit	4
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Thorn Furrows	none
+Stem Colour1	989D39
+Stem Colour2	82614a
+Stem Habit	multi-stem (suckering), 1 main stem
+Thorn Length	# TODO: Enter [min],max values here
+Stem Texture	smooth
+
+#Branches
+Branching Pattern	opposite
+Lower Branch Angle	~45' upright
+Leaf Scar	horse shoe shaped,u-shaped,v-shaped,circular,oval# TODO: Edit/choose
+Twig Colour1	81844D
+Twig Colour2	#
+Twig Type	4-sided
+
+#Root
+#Misc
+Name	Euonymus europaeus
+Common Name	Spindle, Spindle Tree
+Frequency	occasional
+Subspecies	none
+Data Source(s)	Webb 1963, CTW 1962, Sutton 1990
+Similar Plants	none
+Native Status	Ireland,native,Britain,native
+Soil Preference	chalky soil
+Description	"A slender tree, often with several trunks and small inconspicious flowers. Its 4-lobed bright fruit are very conspicious in contrast. The fruit ripen to reveal fleshy orange covered seeds.

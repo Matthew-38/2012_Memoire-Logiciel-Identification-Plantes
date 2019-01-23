@@ -1,0 +1,117 @@
+#General
+Order	fagales
+Family	corylaceae
+Lifespan	perennial
+Foliage	dicidious
+Structure	tree
+Habit	upright
+Woodiness	woody
+Habitat	roadsides
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	3500
+Crown Type	narrow,rounded,conical,dense
+
+#Flower (♀/⚥)
+Flower Observation	none of the above
+Flower Sex	monoecious
+Flower Type	catkin
+Ovary Position	inferior,half-inferior,superior# TODO: Edit/choose
+Flower Scent	none
+Flower Peduncle	glabrous
+Perianth Distinct	absent
+Pistil Colour1	B4A842,8d171d
+Flower Diameter	5,7
+Peduncle Length	# TODO: Enter [min],max values here
+Pedicel Length	# TODO: Enter [min],max values here
+Flowers Per Cluster	3,5
+Stamens	# TODO: Enter [min],max values here
+Stigma	2
+Ovaries	1
+Ovary Chambers	# TODO: Enter [min],max values here
+Flowering Period	feburary,march
+
+#♂Flower
+♂Flower Type	catkin
+♂Stamen Colour1	B1AB46,c29451
+♂Flowers Per Cluster	3,6
+♂Peduncle Length	# TODO: Enter [min],max values here
+♂Stamens	4
+
+#Leaf
+Leaf Observation	buds stalked
+Bud Shape	ovoid,pyramidal
+Bud Colour1	E8DA97,DADAA8,9487b2
+Leaflets	simple
+Leaf Position	alternate
+Lf(let) Shape	orbicular,ovate
+Lf(let) Lobed	unlobed
+Lf(let) Venation	pinnate
+Lf(let) Margin	doubly serrate,dentate
+Lf(let) Margin Decor	none
+Lf(let) Tip	emarginate,rounded
+Lf(let) Base	rounded
+Petiole	petiolate
+Stipules	absent or lost early
+Stipule Shape	#
+Lf(let) Vein Pairs	5,8
+Bud Length	0.5,0.7
+Leaf Ratio (L:W)	0.9,1.1
+Leaf Length	3,10
+Petiole Length	1,3.5
+Bud Texture	smooth
+Lf(let) Top Appearance	glossy
+Lf(let) Underside Appearance	ciliate,glabrous,glossy,dull,glaucous,coriaceous# TODO: Edit/choose
+
+#Fruit
+Fruit Observation	fruit have many spots,wing like bract attached to fruit,fruit mostly covered by cupule,fruit excessively hairy,acorns,none of the above# TODO: Edit/choose
+Fruit Type	berry-like,nut,spiky globule,helicopter,legume,catkin# TODO: Edit/choose
+Fruit Shape	ovoid
+Fruit Peduncle	pedunculate
+Fruit Taste	sour,nutty,toxic!,peppery grape,acid# TODO: Edit/choose
+Fruit Cupule	none
+Fruit Colour1	8E9B41,977e7a,935c3c,7b7d1e,973b0a,722604
+Fruit Colour2	#
+Fruit Number	3,5
+Fruit Diameter	0.7,3
+Fruiting Period	october,november
+
+#Seed
+Seed Type	winged nutlet
+Seed Shape	globose,irregular# TODO: Edit/choose
+Seed Released	yes
+Seed Texture	smooth,leathery,rough# TODO: Edit/choose
+Seed Colour1	776837,87643A,7d561e
+Seed Colour2	B79278
+Seeds Per Fruit	# TODO: Enter [min],max values here
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Thorn Furrows	none
+Stem Colour1	836F54,5F636C,BDA177,8E8C91
+Stem Colour2	95998a
+Stem Habit	multi-stem (suckering)
+Thorn Length	#
+Stem Texture	fissured
+
+#Branches
+Branching Pattern	alternate
+Lower Branch Angle	perpendicular,drooping,~45' upright# TODO: Edit/choose
+Leaf Scar	horse shoe shaped,u-shaped,v-shaped,circular,oval# TODO: Edit/choose
+Twig Colour1	79582F,BD9067,5C2A09
+Twig Colour2	f7dcad
+Twig Type	smooth
+
+#Root
+#Misc
+Name	Alnus glutinosa
+Common Name	Alder, Common Alder
+Frequency	abundant
+Subspecies	none
+Data Source(s)	David Sutton 1990, Webb 1963,CTW 1962, Johnson 2004
+Similar Plants	Alnus incanta,Grey Alder has more pointed leaves which have a prolonged tip. The leaves are paler (grey?) underside. It has smooth grey bark.
+Native Status	Ireland,native,Britain,native
+Soil Preference	wet, fixes nitrogen (via bacteria)
+Description	Usually a waterside tree, Alder is identified by its dark, almost circular leaves and woody, cone-like fruiting catkins which persist for much of the year. Suckering often results in a bushy growth. It has bacteria in its root nodules which fix nitrogen. Flowers are catkins and appear before the leaves.

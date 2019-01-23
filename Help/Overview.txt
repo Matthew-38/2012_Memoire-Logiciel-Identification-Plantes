@@ -1,0 +1,87 @@
+You are viewing the "Overview" help file for Flora Diversa. This gives you an overview and walkthrough of the features of the programme.
+For information on how to use the programme, see the main help file [Readme.txt].
+For information on creating plant profiles, using the exporter and editing as a spreadsheet etc., see the DIY guide [DIYguide.txt].
+
+To simplify things, this file is divided into sections based on the different windows possible in Flora Diversa:
+[*] Main Window
+[*] Plant View Window
+[*] Illustrated Characters Window
+[*] Settings Window
+[*] Exporting Window
+[*] Help Windows
+[*] Misc Functions
+
+############Main Window##########
+This is the main programme window that you get at start up and is central to the programme. 
+It takes about 10 seconds to fully load and position itself on the screen. Be patient.
+At the top are some menus which are mostly self explanatory, followed by a status bar (still buggy at the time of this writing).
+Below this, on the left hand side, delimited by a scroll bar to the right is the Characters panel. 
+To the right of this, we find the Possibles Plants List, a Search Function and the Plant Preview Panel.
+
+*The Characters Panel:
+The panel itself is scrollable via the mouse wheel and the scroll bar to its right. It consists of several different character types which are controlled by Divisors (General, Leaf, Flower etc.) as summary, which can be expanded and contracted via their +/- button.
+The most common character is the menu character. From it you can select one option. Special Menus allow you to click on advanced (to choose a more exact colour) or chooser (to open an illustration guided selection window - see later).
+The second type of character is the list. You may select multiple options from a list. Select as appropriate.
+The third type allows the entry of numerals (positive integers or fractions).
+Each character has a reset button to set it back to default value (unsure or 0). Additionally, there is an 'effect' summary at the right of each character, showing how much of an impact the current settings have vs. their potential. 
+This is what the numbers count: a1(a2)/b1(b2) <<a represents the number of profiles affected by the current setting of this character, while b represents the maximum. 1 refers is measured against the remaining plants (if any) while 2 is measured against all plants.
+These data are summarised by the Divisor "effect" display. Meanwhile, to the left of this on the Divisor heading is listed a summary of the "number of selected characters"/"total characters" (for that Divisor).
+Finally, a special character is present in some Divisors only. It is always at the top and consists of a button opening a new window for the selection by image of leaves,fruit,flowers etc. This can be a useful shortcut when you have unique specimen parts. Note that the images available depend on those accompanying plant profiles and may be lacking for some. "definitely not listed" covers these.
+
+*The Possible Plants List:
+Here you will find a list of the plants that correspond to the selected characters. They are ranked by scores (alphabetically when scores are identical). The negative score has prominence for sorting, and also affects the colour (0=green, -1=orange, and red for -2 or less). The positive score serves for secondary sorting.
+The scores are affected by the selected characters, the first (positive) is increased when a character matches the plant. The second (negative) is decreased for each mismatch. If a character is undefined for a particular plant, that score remains unaffected. Depending on the error tolerance settings, plants with lower than -2 (default) negative score are removed from the list.
+While the latin names of plants are used here, you can easily see their common names via a tooltip by resting the mouse over the entry.
+Clicking on an entry loads it into the Plant Preview Panel below.
+
+*The Plant Preview Panel:
+This is designed to show a summary of the selected plant's information (names, native status and photos). 
+A cycle images option allows you to let the images automatically change every few seconds (random), while clicking on the image changes it (and stops the cycling).
+The Highlight Mismatching Characters option, when ticked, causes any characters (in the character panel) whose options don't match the selected plant to be hightlighted in orange.
+Clicking the View Details button opens the Plant View window for the selected plant.
+
+*The Search Function:
+In the top right corner, there is a text box where you can enter a term (minimum 3 characters, capitalisation doesn't matter), then hit enter or click search to see any matches. Clicking on any of the results loads that plant into the Plant Preview panel.
+
+###########Plant View Window#######
+The plant window has 2 parts, the image viewer on the right and the data viewer on the left.
+
+*The Image Viewer:
+If there are any images supplied with the loaded plant, one should be showing in the Image Viewer. Above it the <<>> buttons allow you to scroll through them. If you need to see them bigger/zoom etc., you can click on the image title between these buttons to attempt to open the image with your system's default image viewer.
+
+*The Data Viewer:
+Below the names and habitat information displayed, you'll find a menu which allows you to select any character of that plant to see it's value.
+Below this, there is a white list ("Description"...) which allows you to see the plant's description, as well as that of similar plants and subspecies (where they exist) in the message to the right of the list.
+At the bottom of the data viewer, you'll find the comparison tool. Select any other plant to compare it to the current one (that which is loaded). The first box lists all the characters belonging to both plants. The second and third list the values of the control (current) plant and the comparative (selected from list) plant respectively. 
+The colour scheme works as follows: Those characters that are present in the control (loaded) plant are shown in blue/light blue alternating. Where there is an identical value between both plants, the text is coloured green. Below all this, there are the characters found in the second (comparative) plant but which are undefined in the control (loaded) plant. These are alternatively coloured green/yellow.
+
+####Illustrated Character Window####
+The illustrated character window is opened when you click on Chooser under the menus of certain characters. 
+All the options are listed with illustrations (where existing) which can be selected. Right clicking should alternate images for the specific option - where available. Clicking OK sets the menu in the Main Window to the selected option, whereas Cancel returns unchanged.
+For the picture characters (First character in some Divisors), on clicking the button, a similar window is opened, however there will be photos rather than illustrations here. They correspond to the images belong to respective plant profiles.
+See relevant characters under Main Windows > Character Panel (above) for more details.
+
+##########Settings Window##########
+There are some optional settings within the programme. These have default built in values. But, if a settings file is present (settings.txt), this is loaded and used for the programme session.
+The settings file contains lines with pairs of Option:Value. Other lines are irrelevant.
+There is also an internal settings manager which controls this. Select "Settings" from the Settings menu to open this window. Here you have some options which are generally self explanatory.
+The Scale options need some explination however. For error tolerance, they allow the user to change how strict the programme behaves. For the colour error tolerance, on the right side, you can see 3 colours, which define the limit of either side of the control which would be treated the same (for a general idea) with the current scale value. Grey by default, click on the Control colour to change it.
+Clicking the <<Set>> button applies the settings to the current session only. The <<Save>> button applies the current settings as well as saving them to the settings file (effectively overwriting it). <<Close>> exits the window.
+
+##########Exporting Window#########
+If you want to write your own plant profiles, the exporting window will be very handy. Instead of editing a copy of an existing similar profile, you can import it, edit the options (or select options from the beginning) and then export the results. It will still need editing afterward, but hopefully much less. See the DIYguide help file for details.
+The window consists of a series of data entry boxes. The most essential being the Latin name. After entering the data, clicking in the file box generates a suggestion for directory and file name. Click browse to alter this. Click <<Export>> when ready to save the data to the given file.
+By default, the files are saved to the "usr/" directory within the programme root. Here there is a script that checks if the file is in order and ready to be moved to the "PlantProfiles/" directory. Afterwards the "ColourUpdate.py" script can be run to make add any new colours to the "Chars.csv" file. See the DIYguide help file for details.
+
+##########Misc Functions###########
+Logs:
+By default, information output of the programme is displayed in the terminal (if run from there) as well as being written to a log file. The log file is appended each time except for the first time each month, where it is overwritten (this limits its size).
+The log file is found at the programme root directory (/log.txt).
+
+Dependencies:
+Based on data in the Chars.csv file, certain characters preclude others, or set others' values. Details of this can be found in the DIYguide. The notification of this can be changed by editing the programme settings.
+
+###########Help Windows############
+The Help Windows can be accessed from the Help menu in the main window. They display information as in the respective file. 
+
+See the "About.txt" file or About help for contact information for the author. Please email me comments, bugs and constructive criticism at vmatthewg@gmail.com. For bug reports, it may be useful to attach a copy of the log file (log.txt and/or usr/errors.log)

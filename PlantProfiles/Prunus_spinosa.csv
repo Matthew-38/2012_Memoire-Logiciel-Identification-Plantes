@@ -1,0 +1,81 @@
+Order	rosales
+Family	rosaceae
+Lifespan	perennial
+Foliage	dicidious
+Structure	tree, shrub
+Habit	upright
+Woodiness	woody
+Habitat	scrub, woodland, hedgerows
+Location	H1 (South Kerry), H2 (North Kerry), H3 (West Cork), H4 (Mid-Cork), H5 (East Cork), H6 (Waterford), H7 (South Tipperary), H8 (Limerick), H9 (Clare), H10 (North Tipperary), H11 (Kilkenny), H12 (Wexford), H13 (Carlow), H14 (Laois), H15 (South-east Galway), H16 (West Galway), H17 (North-east Galway), H18 (Offaly), H19 (Kildare), H20 (Wicklow), H21 (Dublin), H22 (Meath), H23 (Westmeath), H24 (Longford), H25 (Roscommon), H26 (East Mayo), H27 (West Mayo), H28 (Sligo), H29 (Leitrim), H30 (Cavan), H31 (Louth), H32 (Monaghan), H33 (Fermanagh), H34 (East Donegal), H35 (West Donegal), H36 (Tyrone), H37 (Armagh), H38 (Down), H39 (Antrim), H40 (Londonderry)
+Crown Type	dense,irregular,wide
+Plant Height	0,400
+
+#leaves
+Stipules	singly, paired
+Bud Shape	ovoid
+Bud Texture	hairy
+Bud Colour1	BE9C81,E8DA97,8E8642
+Leaf Length	2,4.5
+Petiole	petiolate
+Petiole Length	0.2,1
+Leaf Position	alternate
+Leaflets	simple
+Lf(let) Margin	dentate,crenate
+Lf(let) Margin Decor	none
+Lf(let) Shape	elliptic, lanceolate
+Lf(let) Lobed	unlobed
+Lf(let) Base	crunate
+Lf(let) Tip	obtuse, mucronate
+Lf(let) Venation	pinnate
+Lf(let) Top Appearance	glossy, glabrous
+#TODO glossy?
+Lf(let) Underside Appearance	dull, ciliate
+
+#stem
+Thorns	present
+Stem Colour1	836F54,5F636C,1E2326
+Stem Habit	multi-stem (suckering)
+
+#Branches
+Twig Colour1	96513B,463F46,000000
+Twig Type	spiny, hairy
+
+#flower
+Perianth Distinct	distinct
+Flowering Period	march, april
+Flower Sex	synoecious
+Flower Hairs	none
+Flower Diameter	1,1.5
+Peduncle Length	0.5
+Perianth(P) Number	5
+Perianth(P) Colour1	FFFFFF
+Perianth(S) Colour1	6C6E3F,AAAA6A
+Perianth(S) Number	5
+Perianth(P) Length	0.5,0.8
+Flowers Per Cluster	1,2
+Stamens	20
+Stigma	1
+Ovaries	1
+Ovary Position	inferior
+
+#fruit
+Fruiting Period	september, october, november
+Fruit Type	berry-like
+Fruit Taste	sour
+Fruit Colour1	4B5979,B2A3CE,2E323A
+Fruit Diameter	1,1.5
+
+#seed
+Seed Type	stone
+Seeds Per Fruit	1
+Seed Diameter	0.75,1
+
+#Misc
+Name	Prunus spinosa
+Common Name	Blackthorn, Sloe
+Native Status	Ireland, native,Britain,native
+Soil Preference	most soils
+Subspecies	none
+Frequency	common
+Similar Plants	#none yet
+Description	A thorny, black looking shrub or small tree with bitter fruit.

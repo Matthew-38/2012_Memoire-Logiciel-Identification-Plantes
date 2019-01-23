@@ -1,0 +1,127 @@
+#General
+Order	myrtales
+Family	onagraceae
+Lifespan	perennial
+Foliage	evergreen
+Structure	shrub
+Habit	upright
+Woodiness	woody
+Habitat	hedgerows
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H8 (Limerick),H9 (Clare),H11 (Kilkenny),H12 (Wexford),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)# TODO: Edit/choose
+Plant Height	300
+Crown Type	regular,irregular,wide,narrow,domed,rounded,conical,dense,light# TODO: Edit/choose
+
+#Flower (♀/⚥)
+Flower Observation	none of the above
+Flower Sex	synoecious
+Flower Type	other inflorescence
+Ovary Position	inferior
+Flower Scent	none
+Perianth Distinct	distinct
+Pistil Colour1	ff367c,efe7fe,7a166b
+Stamen Colour1	ff367c,efe7fe,7a166b
+Perianth(P) Colour1	ff367c,bd0d27,efe7fe
+Perianth(P) Colour2	#
+Perianth(S) Colour1	7a166b,b88db8
+Perianth(P) Hairs	none
+Perianth(P) Free	joined forming tube
+Perianth(S) Free	joined forming tube
+Perianth(S) Shape	elliptic
+Perianth(S) Hairs	none
+Perianth(P) Number	4
+Perianth(P) Length	0.5,1.3
+Perianth(S) Number	4
+Perianth(S) Length	1.2,1.5
+Flower Diameter	5.5
+Peduncle Length	2.5,5
+Pedicel Length	#
+Flowers Per Cluster	1.6
+Stamens	8
+Stigma	1
+Ovaries	# TODO: Enter [min],max values here
+Ovary Chambers	# TODO: Enter [min],max values here
+Flowering Period	june,july,august,september
+Flower Peduncle	present
+
+#Leaf
+Leaf Observation	none of the above
+Bud Shape	rounded
+Bud Colour1	c47649
+Bud Colour2	#
+Bud Texture	smooth
+Leaflets	simple,trifolate,palmate,once pinnate,bipinnate,tripinnate# TODO: Edit/choose
+Pinnate Type	opposite-odd,opposite-even,alternate# TODO: Edit/choose
+Leaf Position	opposite
+Lf(let) Shape	elliptic
+Lf(let) Lobed	unlobed
+Lf(let) Venation	arcuate
+Lf(let) Margin	dentate
+Lf(let) Margin Decor	none
+Lf(let) Tip	acute
+Lf(let) Base	rounded
+Petiole	petiolate
+Stipules	absent or lost early
+Stipule Shape	absent,inconspicuous,acicular,ovate,aristate,lanceolate# TODO: Edit/choose
+Lf(let) Vein Pairs	4,5
+Bud Length	0.1
+Leaf Ratio (L:W)	1.5,2
+Leaf Length	13
+Petiole Length	0.4,0.5
+Lflets Per Lf	# TODO: Enter [min],max values here
+Lflet Stalk Length	# TODO: Enter [min],max values here
+Lflet Length	# TODO: Enter [min],max values here
+Lf(let) Top Appearance	glabrous,dull
+Lf(let) Underside Appearance	glabrous,dull
+
+#Fruit
+Fruit Observation	none of the above
+Fruit Type	berry-like
+Fruit Shape	4-angled
+Fruit Taste	peppery grape
+Fruit Cupule	none,woody splitting 4-wise,green lobed# TODO: Edit/choose
+Fruit Colour1	463637,7a3d45
+Fruit Colour2	711b1f,463637
+Fruit Number	1,6
+Fruit Diameter	0.5,2.5
+Fruiting Period	january,feburary,march,april,may,june,july,august,september,october,november,december# TODO: Edit/choose
+
+#Seed
+Seed Type	stone,conker,other# TODO: Edit/choose
+Seed Shape	irregular
+Seed Released	no
+Seed Texture	smooth# TODO: Edit/choose
+Seed Colour1	7d561e
+Seed Colour2	#
+Seeds Per Fruit	0,999
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Thorn Furrows	#
+Stem Colour1	c47649,82614a
+Stem Colour2	82614a
+Stem Habit	1 main stem
+Thorn Length	#
+Stem Texture	smooth,rough,flaking
+
+#Branches
+Branching Pattern	opposite
+Lower Branch Angle	~45' upright
+Leaf Scar	circular
+Twig Colour1	7d561e,8a1b1a
+Twig Colour2	7d561e
+Twig Type	smooth
+
+#Root
+#Misc
+Name	Fuchsia magellanica
+Common Name	Fuchsia,Hummingbird fuchsia, Hardy fuchsia
+Frequency	common
+Subspecies	none#
+Data Source(s)	Webb 1963, CTW 1962
+Similar Plants	none
+Native Status	Ireland,naturalised,Britain,naturalised
+Soil Preference	#
+Description	A bushy shrub with yellowish bark, opposite oval toothed leaves and showy red and purple flowers which release nectar upon squeezing the base. Commonly cultivated.

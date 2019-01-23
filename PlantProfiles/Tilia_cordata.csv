@@ -1,0 +1,128 @@
+#General
+Order	malvales
+Family	malvaceae
+Lifespan	perennial
+Foliage	dicidious
+Structure	tree
+Habit	upright
+Woodiness	woody
+Habitat	woodland,roadsides
+Location	H2 (North Kerry),H9 (Clare),H15 (South-east Galway),H22 (Meath),H28 (Sligo),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H37 (Armagh),H38 (Down),H40 (Londonderry)
+Plant Height	3200
+Crown Type	irregular,narrow,domed
+
+#Flower (♀/⚥)
+Flower Observation	wing like bract attached to flower heads
+Flower Sex	synoecious
+Flower Type	other inflorescence
+Ovary Position	inferior,superior# TODO: Edit/choose
+Flower Scent	subtle
+Flower Peduncle	glabrous
+Perianth Distinct	distinct
+Pistil Colour1	ffe1cd,ffffff
+Stamen Colour1	f7d373
+Perianth(P) Colour1	ffe1cd,ffffff
+Perianth(P) Colour2	#
+Perianth(S) Colour1	ffe1cd,ffffff
+Perianth(P) Hairs	none
+Perianth(P) Free	free
+Perianth(S) Free	free
+Perianth(S) Shape	elliptic,triangular
+Perianth(S) Hairs	none
+Perianth(P) Number	5
+Perianth(P) Length	0.7,0.8
+Perianth(S) Number	5,6
+Perianth(S) Length	0.2,0.4
+Flower Diameter	0.4
+Peduncle Length	2,4
+Pedicel Length	1.0,1.5
+Flowers Per Cluster	4,15
+Stamens	40
+Stigma	1
+Ovaries	1
+Ovary Chambers	5
+Flowering Period	may,june,july
+
+#Leaf
+Leaf Observation	rusty brown hair on vein underside
+Bud Shape	slender (pointed)
+Bud Colour1	512620,E1AF30,c47649
+Bud Colour2	D4A94D
+Leaflets	simple
+Pinnate Type	#
+Leaf Position	alternate
+Lf(let) Shape	cordate
+Lf(let) Lobed	unlobed
+Lf(let) Venation	pinnate
+Lf(let) Margin	dentate
+Lf(let) Margin Decor	none
+Lf(let) Tip	mucronate
+Lf(let) Base	auriculate
+Petiole	peltate
+Stipules	absent or lost early
+Stipule Shape	inconspicuous
+Lf(let) Vein Pairs	4,8
+Bud Length	# TODO: Enter [min],max values here
+Leaf Ratio (L:W)	# TODO: Enter [min],max values here
+Leaf Length	3,9
+Petiole Length	1.5,4
+Lflets Per Lf	#
+Lflet Stalk Length	#
+Lflet Length	#
+Bud Texture	smooth,glabrous
+Lf(let) Top Appearance	ciliate,glabrous,glossy
+Lf(let) Underside Appearance	ciliate,dull
+
+#Fruit
+Fruit Observation	fruit excessively hairy,wing like bract attached to fruit
+Fruit Type	nut
+Fruit Shape	globose
+Fruit Peduncle	pedunculate
+Fruit Taste	nutty
+Fruit Cupule	none
+Fruit Colour1	716348,a9ab43
+Fruit Colour2	#
+Fruit Number	0,999
+Fruit Diameter	0.6
+Fruiting Period	july,august,september
+
+#Seed
+Seed Type	stone,conker,other# TODO: Edit/choose
+Seed Shape	globose,irregular# TODO: Edit/choose
+Seed Released	no
+Seed Texture	smooth,leathery,rough# TODO: Edit/choose
+Seed Colour1	#
+Seed Colour2	#
+Seeds Per Fruit	1
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Thorn Furrows	deep,shallow,none# TODO: Edit/choose
+Stem Colour1	95998a
+Stem Colour2	95998a
+Stem Habit	1 main stem
+Thorn Length	0
+Stem Texture	smooth,flaking,fissured
+
+#Branches
+Branching Pattern	alternate
+Lower Branch Angle	~45' upright,drooping
+Leaf Scar	circular,oval
+Twig Colour1	4c181d,806a1d,7d561e
+Twig Colour2	CCB05D
+Twig Type	smooth,hairy
+
+#Root
+#Misc
+Name	Tilia cordata
+Common Name	Lime, Linden
+Frequency	frequent
+Subspecies	none
+Data Source(s)	David Sutton 1990, Webb 1963
+Similar Plants	Tilia platyphyllos, The "Large Leaved Lime" has bigger leaves but not as broad or tough. Its leaf petioles are shorter and leaf undersides are more hairy. 
+Native Status	Ireland, undefined, Britain, native
+Soil Preference	On limestone
+Description	This tree is distinguished by downward arching branches and hearth shaped leaves. It is often planted on streets but aphids attack the leaves, dripping half digested sap which leaves an unpleasant mess on the pavement.

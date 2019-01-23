@@ -1,0 +1,126 @@
+#General
+Order	rosales
+Family	rosaceae
+Lifespan	perennial
+Foliage	dicidious
+Structure	tree
+Habit	upright
+Woodiness	woody
+Habitat	scrub,woodland,rocky places
+Location	H1 (South Kerry), H3 (West Cork), H5 (East Cork), H6 (Waterford), H7 (South Tipperary), H8 (Limerick), H9 (Clare), H10 (North Tipperary), H11 (Kilkenny), H12 (Wexford), H13 (Carlow), H14 (Laois), H15 (South-east Galway), H16 (West Galway), H17 (North-east Galway), H18 (Offaly), H19 (Kildare), H20 (Wicklow), H21 (Dublin), H22 (Meath), H23 (Westmeath), H24 (Longford), H25 (Roscommon), H26 (East Mayo), H27 (West Mayo), H28 (Sligo), H29 (Leitrim), H30 (Cavan), H31 (Louth), H32 (Monaghan), H33 (Fermanagh), H34 (East Donegal), H35 (West Donegal), H36 (Tyrone), H37 (Armagh), H38 (Down), H39 (Antrim), H40 (Londonderry)
+Plant Height	1500
+Crown Type	regular,wide,domed,conical,dense
+
+#Flower (♀/⚥)
+Flower Sex	synoecious
+Flower Type	other inflorescence
+Ovary Position	inferior,superior# TODO: Edit/choose
+Flower Hairs	none# TODO: Edit/choose
+Flower Scent	sickly-sweet# TODO: Edit/choose
+Perianth Distinct	absent,petals only,sepals only,indistinct,distinct# TODO: Edit/choose
+Pistil Colour1	B4A842
+Stamen Colour1	9D565C
+Perianth(P) Colour1	FFFFFF
+Perianth(P) Colour2	#
+Perianth(S) Colour1	737917
+Perianth(P) Hairs	present
+Perianth(P) Free	free
+Perianth(S) Free	free,joined,joined forming tube# TODO: Edit/choose
+Perianth(S) Shape	triangular
+Perianth(S) Hairs	present
+Perianth(P) Number	5
+Perianth(P) Length	0.6
+Perianth(S) Number	5
+Perianth(S) Length	# TODO: Enter [min],max values here
+Flower Diameter	1.5
+Peduncle Length	# TODO: Enter [min],max values here
+Pedicel Length	# TODO: Enter [min],max values here
+Flowers Per Cluster	999
+Stamens	999
+Stigma	2
+Ovaries	2
+Ovary Chambers	# TODO: Enter [min],max values here
+Flowering Period	may,june
+Flower Peduncle	glabrous,hairy
+
+#Leaf
+Leaf Observation	startling white leaf underside, teeth curved towards apex
+Bud Shape	ovoid
+Bud Colour1	7D9739,E1AF30
+Bud Colour2	783F2E
+Bud Texture	hairy,smooth
+Leaflets	simple
+Pinnate Type	#
+Leaf Position	alternate
+Lf(let) Shape	elliptic,ovate,obovate
+Lf(let) Lobed	unlobed
+Lf(let) Venation	pinnate
+Lf(let) Margin	dentate,serrate, doubly serrate
+Lf(let) Margin Decor	ciliate,none
+Lf(let) Tip	acute,obtuse
+Lf(let) Base	rounded,cuneate
+Petiole	petiolate
+Stipules	absent or lost early
+Stipule Shape	inconspicuous
+Lf(let) Vein Pairs	9,15
+Bud Length	0.5,1
+Leaf Ratio (L:W)	1.1,2.4
+Leaf Length	5,12
+Petiole Length	0.7,2
+Lflets Per Lf	#
+Lflet Stalk Length	#
+Lflet Length	#
+Lf(let) Top Appearance	ciliate,glabrous,glossy
+Lf(let) Underside Appearance	ciliate,glaucous
+
+#Fruit
+Fruit Observation	none of the above
+Fruit Type	berry-like
+Fruit Shape	globose,ovoid
+Fruit Taste	sour# TODO: Edit/choose
+Fruit Cupule	none
+Fruit Colour1	B8140B
+Fruit Colour2	8A6342
+Fruit Number	9,15
+Fruit Diameter	0.8
+Fruiting Period	september
+
+#Seed
+Seed Type	stone,conker,other# TODO: Edit/choose
+Seed Shape	globose,3-angled# TODO: Edit/choose
+Seed Released	no
+Seed Texture	smooth# TODO: Edit/choose
+Seed Colour1	992914,51333B,DFAD7C,87643A# TODO: Edit/choose
+Seed Colour2	B79278# TODO: Edit/choose
+Seeds Per Fruit	2
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Stem Colour1	776053
+Stem Colour2	282820,995121,Similar Plants9776# TODO: Edit/choose
+Stem Habit	main stem dividing early
+Thorn Length	# TODO: Enter [min],max values here
+Stem Texture	smooth,flaking,fissured
+
+#Branches
+Branching Pattern	dicotomous
+Lower Branch Angle	~45' upright
+Leaf Scar	u-shaped
+Twig Colour1	BD9067
+Twig Colour2	#
+Twig Type	hairy,smooth
+
+#Root
+#Misc
+Name	Sorbus aria
+Common Name	Common Whitebeam
+Frequency	
+Subspecies	none#
+Data Source(s)	David Sutton 1990, CTW 1962
+Similar Plants	Sorbus hibernica,teeth symmetrical (not curved towards apex). Shorter fruit; leave underside not as white. 
+Native Status	Ireland,native,Britain,native
+Soil Preference	chalky, limestone
+Description	"Silvery white as they unfold in sprint, the leaves gradually turn green on top as they loose their hairs; the underside maintains this colour and densly hairy.

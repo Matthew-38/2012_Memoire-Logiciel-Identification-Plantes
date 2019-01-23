@@ -1,0 +1,347 @@
+#Base	Simple Eng	Simple Eng TT	Sci Eng	Sci Eng TT
+aff explanation	aff explanation	a1(a2)/b1(b2) where 'a' represents the number of profiles affected by the current setting of this character, while 'b' represents the maximum. 1 refers is measured against the remaining plants (if any) while 2 is measured against all plants.		
+unsure	unsure	Choose this if you are not sure what value suits best. You can always come back later, if need be.	unsure	unsure
+aquafoliales	Aquafoliales	Aquafoliales order		
+apiales	Apiales	Apiales order		
+pinales	Pinales	Pinales order		
+fabales	Fabales	Fabales order		
+rosales	Rosales	Rosales order		
+fagales	Fagales	Fagales order		
+sapindales	Sapindales	Sapindales order		
+lamiales	Lamiales	Lamiales order		
+myrtales	Myrtales	Myrtales order		
+dipsacales	Dipsacales	Dipsacales order		
+other	other	other		
+fabaceae	Fabaceae	Fabaceae family		
+rosaceae	Rosaceae	Rosaceae family		
+fagaceae	Fagaceae	Fagaceae family		
+sapindaceae	Sapindaceae	Sapindaceae family		
+oleaceae	Oleaceae	Oleaceae family		
+betulaceae	Betulaceae	Betulaceae family		
+onagraceae	Onagraceae	Onagraceae family		
+corylaceae	Corylaceae	Corylaceae family		
+adoxaceae	Adoxaceae	Adoxaceae family		
+annual	annual	A plant that completes its life cycle in one year.		
+biennial	biennial	A plant which takes 2 years to complete its life cycle.		
+perennial	perennial	A plant that lives for more than two years.		
+evergreen	evergreen	Evergreen plant leaves tend to be deeper green and more leathery. They don't loose leaves in winter.		
+dicidious	dicidious	Dicidious plants tend to have broad leaves which are lost in winter (some exceptions include young beech which may hold onto some leaves).		
+tree	tree	A perennial woody plant, generally with many secondary branches supported clear of the ground on a single main stem (trunk) with clear apical dominance. Over 4m high and 30cm girth.		
+shrub	shrub	A shrub is distinguished from a tree by its multiple stems and shorter height, usually under 5–6 m tall. Some plants may grow either into shrubs or trees, depending on their growing conditions. 		
+climber	climber	A plant that uses other plants (or structures) as support to allow it to access light.		
+herb	herb	A non-woody flowering plant (either grass-like or a forb). Generally less than 2m high. Here we exclude those plants that use others for climbing (i.e. climbers)		
+creeping	creeping	A creeping habit, where the plant grows predominantly laterally, rather than upright.		
+climbing	climbing	A climbing habit, where the plant climbs on other plants or structures in order to gain access to light.		
+upright	upright	Neither climbing or creeping, the plant supports itself in a mostly upright position with respect to gravity, obstacles and sunlight.		
+herbaceous	herbaceous	Green, non-woody plant stem throughout. Note that some otherwise woody plants may appear herbaceous during juvanile stages – they are still considered woody here.		
+woody	woody	At least part of the plant's stem is woody or will be at maturity.		
+scrub	scrub	A habitat characterised by vegetation dominated by shrubs (often including grasses, herbs and small trees). E.g. Ash-Hazel scrubland of the Burren.		
+woodland	woodland	Naturally existing forests, also such species may be found in stands of trees or mixed forests planted by humans.		
+hedgerows	hedgerows	A line of closely spaced shrubs and tree species, planted and trained to form a barrier or to mark the boundary of an area such as a road side. 		
+thickets	thickets	A very dense stand of trees or tall shrubs, often dominated by only one or a few species, to the exclusion of others.		
+rocky places	rocky places	Habitats dominated rocks or stony soilds, including the karst landform found in the Burren as well as elsewhere.		
+heaths	heaths	Scrub on low quality acidic soils, and characterised by open, low growing woody vegetation (such as members of the Ericaceae/heather family)		
+pastures	pastures	Grassy fields used for livestock grazing.		
+mountains	mountains	Upland regions.		
+riversides	riversides	On or near the banks of rivers and streams.		
+roadsides	roadsides	The habitat at the sides of the road, including but not limited to hedges and verges.		
+H1 (South Kerry)	South Kerry (H1)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H2 (North Kerry)	North Kerry (H2)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H3 (West Cork)	West Cork (H3)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H4 (Mid-Cork)	Mid-Cork (H4)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H5 (East Cork)	East Cork (H5)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H6 (Waterford)	Waterford (H6)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H7 (South Tipperary)	South Tipperary (H7)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H8 (Limerick)	Limerick (H8)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H9 (Clare)	Clare (H9)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H10 (North Tipperary)	North Tipperary (H10)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H11 (Kilkenny)	Kilkenny (H11)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H12 (Wexford)	Wexford (H12)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H13 (Carlow)	Carlow (H13)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H14 (Laois)	Laois (H14)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H15 (South-east Galway)	South-east Galway (H15)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H16 (West Galway)	West Galway (H16)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H17 (North-east Galway)	North-east Galway (H17)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H18 (Offaly)	Offaly (H18)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H19 (Kildare)	Kildare (H19)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H20 (Wicklow)	Wicklow (H20)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H21 (Dublin)	Dublin (H21)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H22 (Meath)	Meath (H22)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H23 (Westmeath)	Westmeath (H23)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H24 (Longford)	Longford (H24)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H25 (Roscommon)	Roscommon (H25)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H26 (East Mayo)	East Mayo (H26)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H27 (West Mayo)	West Mayo (H27)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H28 (Sligo)	Sligo (H28)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H29 (Leitrim)	Leitrim (H29)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H30 (Cavan)	Cavan (H30)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H31 (Louth)	Louth (H31)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H32 (Monaghan)	Monaghan (H32)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H33 (Fermanagh)	Fermanagh (H33)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H34 (East Donegal)	East Donegal (H34)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H35 (West Donegal)	West Donegal (H35)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H36 (Tyrone)	Tyrone (H36)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H37 (Armagh)	Armagh (H37)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H38 (Down)	Down (H38)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H39 (Antrim)	Antrim (H39)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+H40 (Londonderry)	Londonderry (H40)	IMG:Help/vice-county_map.gif; Find the vice county number on the map below:		
+compact bud-like cluster with red spikes	compact bud-like cluster with red spikes	Perianth may be within the 'bud-like' structure. The red spikes refer to the stamens and/or stigmas.		
+none of the above	none of the above	If none of the other listed options seem to apply.		
+synoecious	synoecious	Male and female flower parts are found within the same flower.		
+monoecious	monoecious	The plant has male and female flowers on the same individual.		
+dioecious	dioecious	Each individual has either male or female flowers but not both.		
+other inflorescence	other inflorescence	Flowers in flowering heads other than catkin like inflorescences		
+catkin	catkin	A long cylindrical flower cluster with inconspicuous or no petals. Usually wind pollinated, unisexually and drooping (although many exceptions exist in all cases).		
+Ovary Position	Ovary Position	IMG:Help/ovary_position.gif; Ovary position relative to other flowal part attachment: I=superior, II=half-inferior, III=inferior.		
+inferior	inferior	An inferior ovary lies below the attachment of other floral parts.		
+superior	superior	A superior ovary is an ovary attached to the receptacle above the attachment of other floral parts.		
+half-inferior	half-inferior	A half-inferior ovary is embedded or surrounded by the receptacle		
+sickly-sweet	sickly-sweet	Having a sickly-sweet smell		
+subtle	subtle	Having a light, faint, subtle smell.		
+sessile	sessile	Sessile refers to flowers, fruit or leaves (whichever this case be) that are borne directly on the stem (or flower head stalk in the case of inflorescences), and thus lack a stalk(let).		Flowers, fruit or leaves are borne directly from the stem or peduncle, and thus lack a petiole or pedicel
+glabrous	hairless	It does not have a substantial amount of hairs covering it.		
+hairy	hairy	Has or had hairs on the surface, in some cases confined to certain areas.		
+ciliate	hairy	Has or had hairs on the surface, in some cases confined to certain areas.		
+absent	absent			
+petals only	petals only	Flowers seem to only have one type of perianth which seems petal like (usually brightly coloured)		
+sepals only	sepals only	Flowers seem to only have one type of perianth which seems setal like (usually not so brightly coloured and sometimes hairy)		
+indistinct	indestinct	Petals and sepals difficult or impossible to tell apart (i.e. not clearly defined)		
+Advanced	Advanced	Open the chooser window for guided selection		
+present	present			
+free	free	Perianth not joined.		
+joined	joined	Perianth joined, but not forming a tube like structure.		
+joined forming tube	joined forming tube	Perianth joined such that it forms a tube like structure, such as in the case of Fushcia.		
+triangular	triangular	Shape of being widest near the base and drawing into the middle at the tip to form (nearly) straight lines.		
+elliptic	elliptic	Shape of an ellipse, being widest near the centre.		
+inflorescence	inflorescence	A compound flower or group of flowers forming a flowering head. Non solitary flower.		
+lvs reduced to scales or spines	lvs reduced to scales or spines	Leaves may still be present, but small and instead there is a dominance of green (photosynthetic) spine such as the case in Ulex spp.		
+startling white leaf underside	startling white leaf underside	The underside of the leave is much whiter than above, usually because of greyish hairs present, making a very significant impression when blown in the wind (as contrast to the top of the leaf)		
+teeth curved towards apex	teeth curved towards apex	The leaf teeth are serrate (as appose to dentate) and curve towards the tip of the leaf.		
+ovoid	Egg-shaped	Shaped like an egg, i.e. oblong spherical.		
+rounded	rounded	End more or less rounded forming a hemispherical tip.		
+slender (pointed)	slender (pointed)	Bud is long and slender, forming to a point at the tip.		
+pyramidal	pyramidal	4-sided triangulate to form a pyramid shape.		
+Chooser	Chooser	Open an illustration-guided selection window.		
+simple	simple	Leaf not divided into leaflets.		
+trifolate	trifolate	Leaf divided into 3 leaflets, forming a clover (shamrock) like compound leaf		
+palmate	palmate	Leaflets (usually 5 or 7) radiating out from a centre point, like (in a general sense) the fingers on a hand.		
+once pinnate	once pinnate	Leaves divided into leaflets along a central stem but each leaflet whole.		
+bipinnate	bipinnate	Leaves divided into leaflets along a central stem, each of which is divided.		
+tripinnate	tripinnate	Leaves divided into leaflets along a central stem, each divided twice to form tertiary leaflets.		
+opposite-odd	opposite-odd	Leaflets opposite, but with one at the end (i.e. an odd number of them).		
+opposite-even	opposite-even	Leaflets opposite with no terminal leaflet (i.e. an even number of them).		
+alternate	alternate	Leaflets borne on each side of the stem, but not opposite one another.		
+obovate	obovate	Being widest towards the tip.		
+deltoid	deltoid	Having a generally triangular shaped leaf.		
+cordate	cordate	The leaf is roughly heart shaped.		
+orbicular	orbicular	The leaf is almost circular.		
+reniform	reniform	Kidney shaped leaf.		
+fabellate	fabellate	Fan shaped leaf.		
+spatulate	spatulate	The leaf looks like a spatula.		
+lanceolate	lanceolate	Long, lance-shaped leaf.		
+linear	linear	Long and narrow leaf, with parallel margins for most of it.		
+acicular	acicular	Needle-like leaf (common on most conifers).		
+subulate	subulate	Awl-shaped, narrow, pointed and more or less flattened.		
+parallel	parallel	Veins which all run parallel to each other and the leaf margins.		
+arcuate	arcuate	Veins diverge from the main central vein, but then curve and run more or less parallel.		
+entire	entire	The leaf margin is entire without undulation or teeth.		
+undulate	undulate	The leaf margin is wavy.		
+sinuate	sinuate	Small, close, rounded indentations in the leaf margin.		
+crenate	crenate	Leaf margin having rounded teeth.		
+dentate	dentate	Leaf margin having medium-large teeth with each side equal.		
+denticulate	denticulate	Leaf margin having small teeth with each side equal.		
+serrate	serrate	Leaf margin having medium-large teeth with each side being unequal, so that the teeth are like that of a knife or saw.		
+doubly serrate	doubly serrate	Serrate teeth borne on a primary pair of serrate teeth.		
+serrulate	serrulate	Leaf margin having small teeth with each side being unequal, so that the teeth are like that of a knife or saw.		
+ciliate	ciliate	Leaf margin having soft hairs.		
+spiny	spiny	Leaf margin being spiky or having spines.		
+acuminate	acuminate	Leaf tip tapering in a long point.		
+acute	acute	Shortly pointed tip.		
+obtuse	obtuse	Rounded tip.		
+truncate	truncate	Squared or abruptly cut off tip.		
+emarginate	emarginate	Notched tip.		
+mucronate	mucronate	Leaf tip ending in a short narrow point.		
+cuspidate	cuspidate	Leaf tip having a long point, as a continuation of the main vein.		
+cuneate	cuneate			
+auriculate	auriculate	Short ear-like projections at the base if the leaf.		
+unequal	unequal	Each side of the leaf base are not equal.		
+winged	winged	The leaf base continues down the petiole, forming a narrow wing like structure.		
+connate	connate	Two separate leaves joined at their base around the leaf.		
+petiolate	petiolate	Leaf not directly on stem, but attached via a petiole (leaf stalk).		
+peltate	peltate	Having a petiole attached to the underside and not the basal edge.		
+perfoliate	perfoliate	The stem seems to pierce the leaf.		
+absent or lost early	absent or lost early	Stipules absent or present beside young leaves only.		
+singly	singly	Stipules not paired.		
+paired	paired	Stipules found in pairs beside each leaf.		
+inconspicuous	inconspicuous	Very small.		
+aristate	aristate	Awned.		
+fruit have many spots	fruit have many spots			
+fruit mostly covered by cupule	fruit mostly covered by cupule			
+fruit excessively hairy	fruit excessively hairy			
+acorns	acorns			
+berry-like	berry-like			
+nut	nut			
+spiky globule	spiky globule			
+helicopter	helicopter			
+legume	legume			
+globose	globose			
+3-angled	3-angled			
+4-angled	4-angled			
+single winged	single winged			
+short pod-shaped	short pod-shaped			
+pedunculate	pedunculate	Having a flower stalk (not sessile).		
+sour	sour	A strong, sour taste.		
+nutty	nutty			
+toxic!	toxic!			
+peppery grape	peppery grape			
+acid	acid	Acidic tasting.		
+woody splitting 4-wise	woody splitting 4-wise			
+green lobed	green lobed			
+closely overlapping scales	closely overlapping scales			
+stone	stone			
+conker	conker			
+irregular	irregular			
+yes	yes			
+smooth	smooth			
+leathery	leathery			
+rough	rough			
+multi-stem (suckering)	multi-stem (suckering)	A shrub or tree that produces several stems in proximity by suckering.		
+1 main stem	1 main stem	Having one main central stem or trunk.		
+main stem dividing early	main stem dividing early	Having one main central stem or trunk, but that divides within the first metre or two.		
+crooked	crooked	Unstraight stem(s).		
+dicotomous	dicotomous	Branching pattern whereby the stem divides in two each time.		
+complicated	complicated	None of the above. No simple pattern observable.		
+perpendicular	perpendicular	Branches perpendicular to main stem or trunk. At more or less 90' angle.		
+drooping	drooping	Branches drooping towers the ends (at least).		
+~45' upright	~45' upright	Branches upright, forming approx. 45' angle with the main stem.		
+horse shoe shaped	horse shoe shaped	Horseshoe shaped scar left when a leaf (and petiole) is removed from the stem.		
+u-shaped	u-shaped	A U-shaped scar left when a leaf (and petiole) is removed from the stem.		
+v-shaped	v-shaped	A v-shaped scar left when a leaf (and petiole) is removed from the stem.		
+circular	circular	A more or less round scar left when a leaf (and petiole) is removed from the stem.		
+oval	oval	Oval scar left when a leaf (and petiole) is removed from the stem.		
+Reset Characters	Reset Characters	Reset all characters to defaults (0 or “unsure”). This takes a few seconds...		
+Import File	Import File	Import the states of characters from a .csv file.		
+Export to File	Export to File	Export the current selected characters to a custom .csv file. Handy for creating new Plant Profiles or for saving states.		
+Exit	Exit	Quit the programme.		
+Help	Help	Getting started and how to use the programme.		
+Data Sources	Data Sources	A bibliography key for the references and sources of data and images used in this version.		
+Licence Information	Licence Information	Information about the licence of use of the programme.		
+About	About	General information about the programme.		
+Dependency Notification	Dependency Notification	You will be notified by message box each time a dependency change is made.		
+Status Bar Only	Status Bar Only	You will be notified by by the status bar only each time a dependency change is made.		
+Disable Dependencies	Disable Dependencies	Dependencies will not be called at all.		
+Unavailable in Beta	Unavailable in Beta	The mode changing function is not available in Beta. However, you may change it manually with the settings.txt file if you want to experiment.		
+Native Status	Native Status	To check whether the given plant is native, naturalised etc. in Ireland or Britain.		
+Habit	Habit			
+Structure	Structure	The structural form of the plant, if it is a tree, shrub, herb or a climber (of any of these).		
+Foliage	Foliage	Whether or not the leaves are lost in winter.		
+Lifespan	Lifespan	How long the plant lives, whether it takes a year, two or more to complete its life cycle.		
+::: General :::	::: General :::	Miscellaneous information about the plant – perhaps more useful for sorting than actual identification.		
+Order	Order	Give preference to plants of a specific order.		
+Family	Family	Give preference to plants of a specific family.		
+Woodiness	Woodiness	Whether or not the stem or trunk of the plant is woody at maturity.		
+Habitat	Habitat	The habitat in which the plant is found.		
+Location	Location	Where in Ireland the plant is found, dependant on its known distribution.		
+Crown Type	Crown Type	How the overall crown of trees or shrubs look. A rough and subjective or opinionated character.		
+Expand/collapse tree	Expand/collapse tree	Expand/collapse tree		
+Number of character selected/total number of characters (in this section)	Number of character selected/total number of characters (in this section)	Number of character selected/total number of characters (in this section)		
+::: Flower (♀/⚥) :::	::: Flower (♀/⚥) :::	Characters associated with mixed or female only flowers.		
+::: ♂Flower :::	::: ♂Flower :::	Characters associated with only male flowers.		
+::: Leaf :::	::: Leaf :::	Characters associated with leaves and buds.		
+::: Fruit :::	::: Fruit :::	Characters associated with fruit, fruit cupules and fruiting period.		
+::: Seed :::	::: Seed :::	Characters associated with seeds.		
+::: Stem (Trunk) :::	::: Stem (Trunk) :::	Characters associated with the main trunk(s) or stem(s) of the plant.		
+::: Branches :::	::: Branches :::	Characters associated with the branching and twigs of the plant.		
+::: Root :::	::: Root :::	Currently unused.		
+Branching Pattern	Branching Pattern	The pattern which the branching forms on the plant, whether there is one main stem continuous with opposite or alternate branches, or maybe the stem keeps dividing in two. Otherwise maybe it is a more complex branching system.		
+Lower Branch Angle	Lower Branch Angle	How the branches appear relative to the trunk (and ground). More than one option may apply, for example, the branches may be positioned 45' upright, yet droop at the end. In this case, either option may be relavant.		
+Leaf Scar	Leaf Scar	The scar left behind on the plant when a leaf (and its petiole) are removed carefully.		
+Twig Colour1	Twig Colour1	The primary or most dominant colour of the twig.		
+Twig Colour2	Twig Colour2	The secondary or second most dominant colour of the twig.		
+Twig Type	Twig Type	Miscellaneous features of the twig such as twig hairs. Select what applies.		
+Stem Solidity	Stem Solidity	If the stem is hollow or solid.		
+Stem Form	Stem Form	The shape of the stem cross section, if it is circler/cylindrical, perhaps more square or irregular.		
+Thorns	Thorns	If there are thorns present on the branches, trunk or twigs.		
+Thorn Furrows	Thorn Furrows	Thorns (if present) may have furrows.		
+Stem Colour1	Stem Colour1			
+Stem Colour2	Stem Colour2			
+Stem Habit	Stem Habit			
+Stem Texture	Stem Texture			
+Thorn Length	Thorn Length			
+Seed Observation	Seed Observation			
+Seed Type	Seed Type			
+Seed Shape	Seed Shape			
+Seed Released	Seed Released			
+Seed Texture	Seed Texture			
+Seed Colour1	Seed Colour1			
+Seed Colour2	Seed Colour2			
+Seeds Per Fruit	Seeds Per Fruit			
+Seed Diameter	Seed Diameter			
+Fruit Observation	Fruit Observation			
+Fruit Type	Fruit Type			
+Fruit Shape	Fruit Shape			
+Fruit Peduncle	Fruit Peduncle			
+Fruit Taste	Fruit Taste			
+Fruit Cupule	Fruit Cupule			
+Fruit Colour1	Fruit Colour1			
+Fruit Colour2	Fruit Colour2			
+Fruiting Period	Fruiting Period			
+Fruit Number	Fruit Number			
+Fruit Diameter	Fruit Diameter			
+Leaf Observation	Leaf Observation			
+Bud Shape	Bud Shape			
+Bud Colour1	Bud Colour1			
+Bud Colour2	Bud Colour2			
+Leaflets	Leaflets			
+Pinnate Type	Pinnate Type			
+Leaf Position	Leaf Position			
+Lf(let) Shape	Lf(let) Shape			
+Lf(let) Lobed	Lf(let) Lobed			
+Lf(let) Venation	Lf(let) Venation			
+Lf(let) Margin Decor	Lf(let) Margin Decor			
+Lf(let) Tip	Lf(let) Tip			
+Petiole	Petiole			
+Stipule Shape	Stipule Shape			
+Bud Texture	Bud Texture			
+Lf(let) Top Appearance	Lf(let) Top Appearance			
+Stipules	Stipules			
+Lf(let) Base	Lf(let) Base			
+Lf(let) Underside Appearance	Lf(let) Underside Appearance			
+Lf(let) Vein Pairs	Lf(let) Vein Pairs			
+Leaf Ratio (L:W)	Leaf Ratio (L:W)			
+Bud Length	Bud Length			
+Petiole Length	Petiole Length			
+Lflet Stalk Length	Lflet Stalk Length			
+Lflets Per Lf	Lflets Per Lf			
+Leaf Length	Leaf Length			
+Lflet Length	Lflet Length			
+♂Flower Type	♂Flower Type			
+♂Flower Orientation	♂Flower Orientation			
+♂Stamen Colour1	♂Stamen Colour1			
+♂Perianth(P) Colour1	♂Perianth(P) Colour1			
+♂Perianth(P) Colour2	♂Perianth(P) Colour2			
+♂Perianth(S) Colour1	♂Perianth(S) Colour1			
+♂Flower Diameter	♂Flower Diameter			
+♂Flowers Per Cluster	♂Flowers Per Cluster			
+♂Peduncle Length	♂Peduncle Length			
+♂Stamens	♂Stamens			
+Flower Observation	Flower Observation			
+Perianth(P) Hairs	Perianth(P) Hairs			
+Perianth(S) Free	Perianth(S) Free			
+Perianth(S) Shape	Perianth(S) Shape			
+Flowering Period	Flowering Period			
+Perianth(P) Number	Perianth(P) Number			
+Perianth(P) Length	Perianth(P) Length			
+Perianth(S) Number	Perianth(S) Number			
+Perianth(S) Length	Perianth(S) Length			
+Pedicel Length	Pedicel Length			
+Stigma	Stigma			
+Ovaries	Ovaries			
+Ovary Chambers	Ovary Chambers			
+Perianth(S) Hairs	Perianth(S) Hairs			
+Perianth(P) Free	Perianth(P) Free			
+Pistil Colour1	Pistil Colour1			
+Perianth Distinct	Perianth Distinct			
+Flower Peduncle	Flower Peduncle			
+Flower Scent	Flower Scent			
+Flower Sex	Flower Sex			

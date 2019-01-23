@@ -1,0 +1,98 @@
+#General
+Order	fagales
+Family	fagaceae
+Lifespan	perennial
+Foliage	dicidious
+Structure	tree
+Habit	upright
+Woodiness	woody
+Habitat	woodland,hedgerows
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	5000
+Crown Type	dense, rounded, wide
+
+#Flower (♀/⚥)
+Flowering Period	april,may
+Flower Sex	monoecious
+Flower Type	other inflorescence
+Ovary Position	inferior,superior# TODO: Edit/choose
+Flower Hairs	none# TODO: Edit/choose
+Flower Scent	#unknown
+Perianth(P) Colour1	BC7F17,332A17
+Perianth(P) Shape	#
+Perianth(P) Number	4,7 #Male only?
+Perianth(P) Length	#
+Flower Diameter	#
+Stalk Length	5,6#
+Flowers Per Cluster	2
+Stigma	3
+Ovaries	1
+
+#♂Flower
+♂Flowers Per Cluster	3,999
+♂Peduncle Length	5,6
+♂Stamens	8,16
+♂Perianth(P) Colour1	5C3607,B99236
+
+#Leaf
+Bud Shape	slender (pointed)
+Bud Texture	glabrous,smooth
+Bud Colour1	512620,49341F,C4320D,FD8B32
+Bud Texture	smooth
+Bud Length	1,2
+Leaflets	simple
+Leaf Position	alternate
+Lf(let) Shape	elliptic
+Lf(let) Lobed	unlobed
+Lf(let) Margin	undulate
+Lf(let) Margin Decor	ciliate
+Lf(let) Venation	pinnate
+Lf(let) Vein Pairs	5,9
+Lf(let) Top Appearance	glabrous, glossy
+Lf(let) Underside Appearance	ciliate, dull
+Lf(let) Tip	acute, mucronate
+Lf(let) Base	acute, rounded
+Petiole	petiolate
+Stipules	singly, paired#
+Leaf Length	4,9
+Petiole Length	0.5,1.5
+Leaf Ratio (L:W)	#
+
+#Fruit
+Fruit Type	nut
+Fruit Shape	3-angled
+Fruit Colour1	A36124,722604
+Fruit Colour2	8A6342
+Fruit Diameter	1.2,1.8
+Fruiting Period	september,october
+Fruit Number	1,3
+Fruit Cupule	woody splitting 4-wise
+
+#Seed
+Seeds Per Fruit	1
+
+#Stem (Trunk)
+Stem Solidity	solid
+Thorns	absent
+Stem Colour1	64696C
+Stem Colour2	282820
+Stem Habit	1 main stem
+Stem Texture	smooth
+
+#Branches
+Branching Pattern	alternate
+Lower Branch Angle	~45' upright
+Twig Colour1	5C2A09,7C4109,3D3332
+Twig Type	smooth
+
+#Root
+
+#Misc
+Name	Fagus sylvatica
+Common Name	Beech
+Frequency	common
+Subspecies	none
+Similar Plants	Carpinus betulus, Hornbeam has more fluted stem; thougher and longer leaves (hairless) and toothed rather than wavy (undulate) leaf margins. Additionally the fruit are completely different - as are the flowers., ~Purpuria, Copper Beech is a cultivar with copper red leaves.
+Native Status	Ireland,naturalised,Britain,naturalised
+Soil Preference	drained, chalky
+Description	With massive, smooth, grey trunks and arched boughs, a mature stand of Beech have a cathedral like appearance. Beech is destinguished easily by its elliptic leaves with wavy (undulate) margin. Young leaves have margin hairs. Young plants, often those in hedges, may hold onto their leaves in winter.

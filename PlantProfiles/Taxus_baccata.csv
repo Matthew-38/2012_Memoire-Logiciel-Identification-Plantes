@@ -1,0 +1,121 @@
+#General
+Order	pinales
+Family	taxaceae
+Lifespan	perennial
+Foliage	evergreen
+Structure	tree,shrub
+Habit	upright
+Woodiness	woody
+Habitat	scrub,woodland
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	0,3000
+Crown Type	regular,wide,narrow,domed,conical,dense
+
+#Flower (♀/⚥)
+Flower Observation	none of the above
+Flower Sex	dioecious
+Flower Type	cone
+Ovary Position	#
+Flower Scent	none
+Flower Peduncle	sessile
+Perianth Distinct	absent
+Pistil Colour1	a0a660
+Stamen Colour1	#
+Flower Diameter	0.102
+Peduncle Length	0
+Pedicel Length	0
+Flowers Per Cluster	1
+Stamens	0
+Stigma	# TODO: Enter [min],max values here
+Ovaries	1
+Ovary Chambers	# TODO: Enter [min],max values here
+Flowering Period	feburary,march,april
+
+#♂Flower
+♂Flower Type	cone
+♂Stamen Colour1	B1AB46,c29451,FF0000# TODO: Edit/choose
+♂Perianth(P) Colour1	FFFFFF
+♂Perianth(P) Colour2	9F7B67
+♂Perianth(S) Colour1	575C22
+♂Flowers Per Cluster	0,999
+♂Peduncle Length	0
+♂Stamens	# TODO: Enter [min],max values here
+
+#Leaf
+Leaf Observation	dark flat needles
+Bud Shape	ovoid
+Bud Colour1	7D9739,dbbd43
+Bud Colour2	8E8642
+Leaflets	simple
+Leaf Position	opposite,spirally arranged
+Lf(let) Shape	acicular
+Lf(let) Lobed	unlobed
+Lf(let) Venation	parallel
+Lf(let) Margin	entire
+Lf(let) Margin Decor	none
+Lf(let) Tip	cuspidate
+Lf(let) Base	acute
+Petiole	petiolate
+Stipules	absent or lost early
+Stipule Shape	absent
+Lf(let) Vein Pairs	1
+Bud Length	0.1
+Leaf Ratio (L:W)	# TODO: Enter [min],max values here
+Leaf Length	1,3
+Petiole Length	# TODO: Enter [min],max values here
+Bud Texture	smooth,hairy,glabrous,sticky,rough# TODO: Edit/choose
+Lf(let) Top Appearance	glabrous,glossy,coriaceous
+Lf(let) Underside Appearance	glabrous,coriaceous
+
+#Fruit
+Fruit Observation	none of the above
+Fruit Type	berry-like
+Fruit Shape	globose
+Fruit Peduncle	sessile
+Fruit Taste	toxic!
+Fruit Cupule	none
+Fruit Colour1	B4012E
+Fruit Colour2	000000
+Fruit Number	1
+Fruit Diameter	0.8,1.2
+Fruiting Period	august,september
+
+#Seed
+Seed Observation	orange fleshy seed coating
+Seed Type	other
+Seed Shape	ellipsoid
+Seed Released	no
+Seed Texture	smooth,leathery,rough# TODO: Edit/choose
+Seed Colour1	7d561e,6D5237,87643A
+Seed Colour2	B79278
+Seeds Per Fruit	1
+Seed Diameter	0.5,0.7
+
+#Stem (Trunk)
+Stem Solidity	hollow
+Stem Form	cylindrical
+Thorns	absent
+Stem Colour1	64696C,5F494D,92826a
+Stem Colour2	#
+Stem Habit	main stem dividing early
+Stem Texture	rough,flaking,scaly
+
+#Branches
+Branching Pattern	opposite
+Lower Branch Angle	~45' upright
+Leaf Scar	horse shoe shaped,u-shaped,v-shaped,circular,oval# TODO: Edit/choose
+Twig Colour1	81844D,7d561e
+Twig Colour2	#
+Twig Type	smooth,groved petiole
+
+#Root
+#Misc
+Name	Taxus baccata
+Common Name	Yew
+Frequency	common
+Subspecies	none
+Data Source(s)	Sutton 1990, Webb 1963, CTW 1962
+Similar Plants	none
+Native Status	Ireland,native,Britain,native
+Soil Preference	alkaline soils
+Description	Often planted solitarily in grave yeards and can live many years and have hollow trunks, Yew has distinctive flattened needle-like leaves with 2 green-yellow bands underside. The leaves, which are darker green than most other connifers, are borne opposite in a 2d form, or spirally on upright shoots. Very toxic!

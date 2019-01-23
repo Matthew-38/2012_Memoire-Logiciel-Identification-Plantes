@@ -1,0 +1,129 @@
+#TODO: Currently incomplete!
+#General
+Order	ericales
+Family	ericaceae
+Lifespan	perennial
+Foliage	evergreen
+Structure	shrub
+Habit	upright
+Woodiness	woody
+Habitat	woodland,scrub,forest
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	300
+Crown Type	irregular,wide,domed,rounded,dense
+
+#Flower (♀/⚥)
+Flower Observation	none of the above
+Flower Sex	synoecious
+Flower Type	other inflorescence
+Flower Orientation	upright
+Ovary Position	inferior,half-inferior,superior# TODO: Edit/choose
+Flower Scent	sickly-sweet,sweet,subtle,none# TODO: Edit/choose
+Flower Peduncle	sessile,glabrous,hairy# TODO: Edit/choose
+Perianth Distinct	absent,petals only,sepals only,indistinct,distinct# TODO: Edit/choose
+Pistil Colour1	FC6AAB,C4001D,ff367c
+Stamen Colour1	EE6495
+Perianth(P) Colour1	CEA2FC,ff367c,E292E0
+Perianth(P) Colour2	F9402E,BE9140
+Perianth(S) Colour1	#
+Perianth(P) Hairs	none,present# TODO: Edit/choose
+Perianth(P) Free	joined
+Perianth(S) Free	free,joined,joined forming tube# TODO: Edit/choose
+Perianth(S) Shape	triangular,elliptic# TODO: Edit/choose
+Perianth(S) Hairs	none,present# TODO: Edit/choose
+Perianth(P) Number	3.5
+Perianth(P) Length	# TODO: Enter [min],max values here
+Perianth(S) Number	# TODO: Enter [min],max values here
+Perianth(S) Length	0.06,0.3
+Flower Diameter	5
+Peduncle Length	# TODO: Enter [min],max values here
+Pedicel Length	# TODO: Enter [min],max values here
+Flowers Per Cluster	0.999
+Stamens	10
+Stigma	1
+Ovaries	# TODO: Enter [min],max values here
+Ovary Chambers	# TODO: Enter [min],max values here
+Flowering Period	may,june
+
+#Leaf
+Leaf Observation	none of the above
+Bud Shape	ovoid,rounded,slender (pointed),pyramidal,curved# TODO: Edit/choose
+Bud Colour1	E8DA97,8E8642,9a5f5d,dbbd43
+Bud Colour2	A85061
+Leaflets	simple
+Pinnate Type	opposite-odd,opposite-even,alternate# TODO: Edit/choose
+Leaf Position	spirally arranged
+Lf(let) Shape	lanceolate
+Lf(let) Lobed	unlobed
+Lf(let) Venation	pinnate
+Lf(let) Margin	entire
+Lf(let) Margin Decor	none
+Lf(let) Tip	acute
+Lf(let) Base	cuneate
+Petiole	sessile,petiolate,peltate,perfoliate# TODO: Edit/choose
+Stipules	absent or lost early,singly,paired# TODO: Edit/choose
+Stipule Shape	absent,inconspicuous,acicular,ovate,aristate,lanceolate# TODO: Edit/choose
+Lf(let) Vein Pairs	# TODO: Enter [min],max values here
+Bud Length	# TODO: Enter [min],max values here
+Leaf Ratio (L:W)	303.6
+Leaf Length	618
+Petiole Length	# TODO: Enter [min],max values here
+Lflets Per Lf	# TODO: Enter [min],max values here
+Lflet Stalk Length	# TODO: Enter [min],max values here
+Lflet Length	# TODO: Enter [min],max values here
+Bud Texture	smooth,hairy,glabrous,sticky,rough# TODO: Edit/choose
+Lf(let) Top Appearance	glabrous,glossy,coriaceous
+Lf(let) Underside Appearance	glabrous,pale,glossy,coriaceous
+
+#Fruit
+Fruit Observation	cone-like catkins,fruit have many spots,wing like bract attached to fruit,fruit mostly covered by cupule,fruit covered in pimples,fruit excessively hairy,acorns,none of the above# TODO: Edit/choose
+Fruit Type	berry-like,nut,spiky globule,helicopter,legume,catkin,cone,4-lobed pod-like berry# TODO: Edit/choose
+Fruit Shape	globose,ovoid,3-angled,4-angled,single winged,paired winged,short pod-shaped,long,4-lobed,cylindrical# TODO: Edit/choose
+Fruit Peduncle	sessile,pedunculate# TODO: Edit/choose
+Fruit Taste	sour,revolting,nutty,toxic!,peppery grape,acid# TODO: Edit/choose
+Fruit Cupule	none,woody splitting 4-wise,green lobed,closely overlapping scales# TODO: Edit/choose
+Fruit Colour1	4B5979,B2A3CE,2E323A,8E9B41,EDD2B4,716348,a9ab43,C8905D,CECE92,B8140B,935c3c,973b0a,A36124,722604,7b7d1e,977e7a,EFECA7,A96E6D,000000,f45423,B4012E,FC4E4D,FF7C95,99701E,463637,7a3d45# TODO: Edit/choose
+Fruit Colour2	8A6342,D0965C,C8905D,CECE92,000000,8D9DAB,463637,711b1f# TODO: Edit/choose
+Fruit Number	# TODO: Enter [min],max values here
+Fruit Diameter	# TODO: Enter [min],max values here
+Fruiting Period	january,feburary,march,april,may,june,july,august,september,october,november,december# TODO: Edit/choose
+
+#Seed
+Seed Observation	orange fleshy seed coating,none of the above# TODO: Edit/choose
+Seed Type	stone,conker,winged nutlet,other# TODO: Edit/choose
+Seed Shape	globose,irregular,ellipsoid# TODO: Edit/choose
+Seed Released	no,yes# TODO: Edit/choose
+Seed Texture	smooth,leathery,rough# TODO: Edit/choose
+Seed Colour1	7d561e,e1ac4e,6D5237,DFAD7C,87643A,992914,51333B,776837,3B3528# TODO: Edit/choose
+Seed Colour2	B79278,a39690,e1ac4e# TODO: Edit/choose
+Seeds Per Fruit	# TODO: Enter [min],max values here
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	hollow
+Stem Form	cylindrical
+Thorns	absent
+Stem Colour1	8f8170
+Stem Colour2	95998a,D7D461,000000,938B7C,ebf3f5,995121,cf9776,bfc1ac,b9a887,c59854,282820,CF9776,82614a# TODO: Edit/choose
+Stem Habit	multi-stem (suckering),crooked
+Stem Texture	rough,flaking,scaly,fissured
+
+#Branches
+Branching Pattern	opposite,alternate,dicotomous,complicated# TODO: Edit/choose
+Lower Branch Angle	perpendicular,drooping,~45' upright# TODO: Edit/choose
+Leaf Scar	horse shoe shaped,u-shaped,v-shaped,circular,oval# TODO: Edit/choose
+Twig Colour1	96513B,463F46,000000,81844D,4c181d,806a1d,7d561e,79582F,466105,9FA0A6,5C2A09,9994b4,BD9067,3E4B28,9A935F,3D3332,65523F,7C4109,C4A89C,8a1b1a# TODO: Edit/choose
+Twig Colour2	CCB05D,877841,d4b1a5,f7dcad,7d561e# TODO: Edit/choose
+Twig Type	smooth
+
+#Root
+#Misc
+Name	Rhododendron ponticum
+Common Name	Rhododendron
+Frequency	abundant
+Subspecies	none
+Data Source(s)	CTW 1962, Webb 1963
+Similar Plants	none
+Native Status	Ireland, introduced and invasive, Britain, introduced and invasive
+Soil Preference	acid
+Description	Common Rhododendron is a dense shrub with a suckering nature. It has glossy leaves and bright purple to red flowers for which it was originally introduced as an ornamental. It is not very invasive in both Ireland and Britain.

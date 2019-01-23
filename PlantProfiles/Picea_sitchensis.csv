@@ -1,0 +1,121 @@
+#General
+Order	pinales
+Family	pinaceae
+Lifespan	perennial
+Foliage	evergreen
+Structure	tree
+Habit	upright
+Woodiness	woody
+Habitat	woodland,forest
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	0,5500
+Crown Type	regular,narrow,conical,dense
+
+#Flower (♀/⚥)
+Flower Observation	none of the above
+Flower Sex	monoecious
+Flower Type	cone
+Flower Orientation	upright
+Ovary Position	#
+Flower Scent	none
+Flower Peduncle	sessile
+Perianth Distinct	absent
+Pistil Colour1	B4A842
+Stamen Colour1	#
+Flower Diameter	2.5,5
+Peduncle Length	# TODO: Enter [min],max values here
+Pedicel Length	# TODO: Enter [min],max values here
+Flowers Per Cluster	1
+Stamens	# TODO: Enter [min],max values here
+Stigma	# TODO: Enter [min],max values here
+Ovaries	# TODO: Enter [min],max values here
+Ovary Chambers	# TODO: Enter [min],max values here
+Flowering Period	may
+
+#♂Flower
+♂Flower Type	cone
+♂Flower Orientation	upright,pendulant
+♂Stamen Colour1	FB886B
+♂Flower Diameter	2.5,3.5
+♂Flowers Per Cluster	1
+♂Peduncle Length	0
+♂Stamens	# TODO: Enter [min],max values here
+
+#Leaf
+Leaf Observation	dark flat needles,none of the above
+Bud Shape	ovoid
+Bud Colour1	BE9C81,c47649,AC512D
+Bud Colour2	#
+Leaflets	simple
+Leaf Position	spirally arranged
+Lf(let) Shape	acicular
+Lf(let) Lobed	unlobed
+Lf(let) Venation	parallel
+Lf(let) Margin	entire
+Lf(let) Margin Decor	none
+Lf(let) Tip	cuspidate
+Lf(let) Base	cuneate,acute
+Petiole	sessile
+Stipules	absent or lost early
+Stipule Shape	absent
+Lf(let) Vein Pairs	# TODO: Enter [min],max values here
+Bud Length	# TODO: Enter [min],max values here
+Leaf Ratio (L:W)	# TODO: Enter [min],max values here
+Leaf Length	1.5,3
+Petiole Length	0
+Bud Texture	glabrous,sticky
+Lf(let) Top Appearance	glabrous,glossy,coriaceous
+Lf(let) Underside Appearance	glabrous,glossy,coriaceous
+
+#Fruit
+Fruit Observation	none of the above
+Fruit Type	cone
+Fruit Shape	cylindrical
+Fruit Peduncle	sessile
+Fruit Taste	sour,revolting,nutty,toxic!,peppery grape,acid# TODO: Edit/choose
+Fruit Cupule	none
+Fruit Colour1	C8905D,935c3c,973b0a
+Fruit Colour2	#
+Fruit Number	1
+Fruit Diameter	5,10
+Fruiting Period	october
+
+#Seed
+Seed Observation	none of the above
+Seed Type	winged nutlet
+Seed Shape	globose,irregular# TODO: Edit/choose
+Seed Released	yes
+Seed Texture	rough
+Seed Colour1	472418
+Seed Colour2	B79278
+Seeds Per Fruit	0,999
+Seed Diameter	#
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Stem Colour1	836F54,64696C,8E8C91,82614a
+Stem Colour2	95998a,995121
+Stem Habit	1 main stem
+Stem Texture	flaking,scaly
+
+#Branches
+Branching Pattern	#
+Lower Branch Angle	perpendicular,drooping
+Leaf Scar	horse shoe shaped,u-shaped,v-shaped,circular,oval# TODO: Edit/choose
+Twig Colour1	96513B,7d561e,79582F
+Twig Colour2	#
+Twig Type	rough,groved petiole
+
+#Root
+#Misc
+Name	Picea sitchensis
+Common Name	Sitka Spruce
+Frequency	abundant
+Subspecies	none
+Data Source(s)	Sutton 1990, CTW 1962
+Similar Plants	none
+Native Status	Ireland,planted,Britain,planted
+Soil Preference	tolerates poor soil
+Description	A widespread introduced conifer, Sitka Spruce is tall, and with shallow roots, is often blown over in storms. It is easily destinguished by its flattened needles (not as dark as Yew) with 2 pale bands on top and 2 blue ones below. The cones are long and cylindrical, pendulant. Originally from west coast of N. America, Sitka Spruce is very commonly planted in Britain and Ireland as forests for timber.

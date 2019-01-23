@@ -1,0 +1,287 @@
+ 
+Reset
+ericales
+taxaceae
+malvales
+celastrales
+aquafoliaceae
+araliaceae
+ericaceae
+pinaceae
+malvaceae
+celestraceae
+forest
+hillsides
+walls and trees
+regular
+wide
+narrow
+domed
+conical
+dense
+light
+Plant Height
+cm
+wing like bract attached to flower heads
+Flowers
+january
+feburary
+march
+april
+may
+june
+july
+august
+september
+october
+november
+december
+Flower Type
+solitary
+cone
+Flower Orientation
+pendulant
+sweet
+none
+distinct
+ffe1cd
+ffffff
+a0a660
+E6CF8E
+2E1103
+FC6AAB
+C4001D
+8d171d
+ff367c
+c1b2a0
+B4A842
+67A914
+efe7fe
+7a166b
+Stamen Colour1
+f7d373
+EEAA6A
+EE6495
+9D565C
+E9DDA9
+ffffbe
+Perianth(P) Colour1
+FFFFFF
+983030
+FAD019
+EEDA00
+A5A303
+BC7F17
+332A17
+CEA2FC
+E292E0
+BDDB79
+bd0d27
+Perianth(P) Colour2
+9F7B67
+C13C67
+DDD044
+F9402E
+BE9140
+BD807D
+Perianth(S) Colour1
+6C6E3F
+AAAA6A
+575C22
+D45A3D
+737917
+BFAC55
+5D5202
+b88db8
+_
+Flower Diameter
+Peduncle Length
+Flowers Per Cluster
+Stamens
+B1AB46
+c29451
+FF0000
+FB886B
+E5E163
+9c9f17
+fcf98f
+5C3607
+B99236
+buds stalked
+leaves deeply lobed
+rusty brown hair on vein underside
+dark flat needles
+paired needles
+Leaves
+curved
+BE9C81
+E8DA97
+8E8642
+512620
+E1AF30
+c47649
+7D9739
+dbbd43
+D6707B
+AC650D
+9a5f5d
+AC512D
+49341F
+C4320D
+FD8B32
+DADAA8
+D4A94D
+9487b2
+466810
+6C2626
+A85061
+783F2E
+sticky
+opposite
+spirally arranged
+ovate
+unlobed
+shallowly lobed
+pinnate
+Lf(let) Margin
+glossy
+dull
+glaucous
+coriaceous
+pale
+cone-like catkins
+wing like bract attached to fruit
+fruit covered in pimples
+Fruit
+4-lobed pod-like berry
+paired winged
+long
+cylindrical
+revolting
+4B5979
+B2A3CE
+2E323A
+8E9B41
+EDD2B4
+716348
+a9ab43
+B4012E
+FC4E4D
+FF7C95
+F0A82F
+C8905D
+CECE92
+B8140B
+935c3c
+973b0a
+A36124
+722604
+7b7d1e
+977e7a
+EFECA7
+A96E6D
+000000
+f45423
+99701E
+463637
+7a3d45
+8A6342
+D0965C
+8D9DAB
+711b1f
+orange fleshy seed coating
+Seed
+winged nutlet
+ellipsoid
+7d561e
+6D5237
+87643A
+e1ac4e
+DFAD7C
+472418
+992914
+51333B
+776837
+3B3528
+312225
+E6D28B
+B79278
+32241B
+a39690
+solid
+partially hollow
+fluted
+flaking
+scaly
+fissured
+peeling
+836F54
+5F636C
+1E2326
+64696C
+95998a
+5F494D
+92826a
+989D39
+A1A189
+7a6a5b
+8f8170
+776053
+8A8C81
+8E8C91
+77775D
+ebf3f5
+82614a
+BDA177
+626B5A
+aba492
+D7D461
+938B7C
+995121
+cf9776
+bfc1ac
+b9a887
+CF9776
+c59854
+282820
+groved petiole
+with resin glands
+4-sided
+96513B
+463F46
+81844D
+4c181d
+806a1d
+3E4B28
+B76963
+79582F
+466105
+9FA0A6
+5C2A09
+9994b4
+BD9067
+9A935F
+3D3332
+65523F
+7C4109
+C4A89C
+8a1b1a
+CCB05D
+877841
+d4b1a5
+f7dcad
+Possible Species
+Common
+Names
+Frequency
+SubSpecies
+Cycle Images
+Highlight Mismatching Characters
+View Details
+Search
+File
+Mode
+Settings
+Status:
+Okay
+Cancel

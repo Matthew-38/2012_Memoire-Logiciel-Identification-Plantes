@@ -1,0 +1,8 @@
+Settings file for Flora Diversa. Possible options include: colour strictness, name, language, error tolerance, dependency, log mode, mode file
+colour strictness:255
+name:Flora Diversa
+language:1
+error tolerance:2
+dependency:Status Bar Only
+log mode:
+mode file:language.csv

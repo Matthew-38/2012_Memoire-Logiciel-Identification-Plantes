@@ -1,0 +1,89 @@
+Order	rosales
+Family	rosaceae
+Lifespan	perennial
+Foliage	dicidious
+Structure	tree, shrub
+Habit	upright
+Woodiness	woody
+Habitat	scrub, woodland, hedgerows
+Location	H1 (South Kerry), H2 (North Kerry), H3 (West Cork), H4 (Mid-Cork), H5 (East Cork), H6 (Waterford), H7 (South Tipperary), H8 (Limerick), H9 (Clare), H10 (North Tipperary), H11 (Kilkenny), H12 (Wexford), H13 (Carlow), H14 (Laois), H15 (South-east Galway), H16 (West Galway), H17 (North-east Galway), H18 (Offaly), H19 (Kildare), H20 (Wicklow), H21 (Dublin), H22 (Meath), H23 (Westmeath), H24 (Longford), H25 (Roscommon), H26 (East Mayo), H27 (West Mayo), H28 (Sligo), H29 (Leitrim), H30 (Cavan), H31 (Louth), H32 (Monaghan), H33 (Fermanagh), H34 (East Donegal), H35 (West Donegal), H36 (Tyrone), H37 (Armagh), H38 (Down), H39 (Antrim), H40 (Londonderry)
+Crown Type	dense
+Plant Height	0,1800
+
+#leaves
+Stipules	paired
+Stipule Shape	#
+Bud Shape	rounded
+Bud Texture	glabrous
+Bud Colour1	DADAA8,D4A94D
+Bud Colour2	A85061,D4A94D
+Leaf Position	alternate
+Leaflets	simple
+Leaf Length	1,4.5
+Petiole	petiolate
+Petiole Length	0.2,1
+Lf(let) Margin	deltoid
+Lf(let) Margin Decor	none
+Lf(let) Shape	deltoid,ovate
+Lf(let) Lobed	unlobed
+Lf(let) Tip	acute
+Lf(let) Base	cuneate, acute
+Lf(let) Venation	pinnate
+Lf(let) Top Appearance	glossy, glabrous
+Lf(let) Underside Appearance	dull, glabrous
+
+#stem
+Thorns	present
+Thorn Length	1.5
+Stem Colour1	77775D,626B5A
+Stem Colour2	995121,CF9776
+Stem Habit	1 main stem
+Stem Texture	fluted, rough, scaly
+
+#Branches
+Twig Colour1	65523F,C4A89C
+
+#flower
+Perianth Distinct	distinct
+Flowering Period	may,june
+Flower Sex	synoecious
+Flower Diameter	1,1.5
+Flower Scent	sickly-sweet
+Flower Peduncle	hairy
+Perianth(P) Number	5
+Perianth(S) Number	5
+Perianth(P) Colour1	FFFFFF
+Perianth(P) Colour2	BD807D
+Perianth(S) Colour1	5D5202
+Perianth(S) Hairs	present
+Perianth(P) Length	0.4,0.6
+Flowers Per Cluster	9,18
+Stamens	20
+Stigma	1
+Ovaries	1
+Ovary Position	inferior
+
+#fruit
+Fruiting Period	september, october
+Fruit Type	berry-like
+Fruit Shape	globose,ovoid
+Fruit Colour1	B8140B,B4012E,FC4E4D,FF7C95,99701E
+Fruit Cupule	none
+Fruit Diameter	0.7,1.4
+
+#seed
+Seeds Per Fruit	1,2
+Seed Diameter	0.75,1
+Seed Type	stone
+Seed Colour1	DFAD7C,87643A
+
+
+#Misc
+Name	Crataegus monogyna
+Common Name	Haw, Common hawthorn, Whitethorn
+Native Status	Ireland, native,Britain,native
+Soil Preference	chalk
+Subspecies	none
+Frequency	abundant
+Similar Plants	none
+Description	A thorny, silver-white looking shrub or tree, with scarlet to maroon fruit to which the sepals remain attached.

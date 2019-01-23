@@ -1,0 +1,129 @@
+
+#General
+Order	rosales
+Family	rosaceae
+Lifespan	perennial
+Foliage	dicidious
+Structure	tree
+Habit	upright
+Woodiness	woody
+Habitat	rocky places, mountains, riversides, roadsides
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	0,2000
+Crown Type	irregular,rounded
+
+#Flower (♀/⚥)
+Flower Observation	none of the above
+Flower Sex	synoecious
+Flower Type	other inflorescence
+Ovary Position	inferior
+Flower Scent	none
+Flower Peduncle	hairy
+Perianth Distinct	distinct
+Pistil Colour1	a0a660
+Stamen Colour1	a0a660
+Perianth(P) Colour1	FFFFFF
+Perianth(P) Colour2	#
+Perianth(S) Colour1	575C22
+Perianth(P) Hairs	present
+Perianth(P) Free	free
+Perianth(S) Free	free,joined,joined forming tube# TODO: Edit/choose
+Perianth(S) Shape	triangular
+Perianth(S) Hairs	present
+Perianth(P) Number	5
+Perianth(P) Length	0.3,0.5
+Perianth(S) Number	5
+Perianth(S) Length	# TODO: Enter [min],max values here
+Flower Diameter	0.8,1
+Peduncle Length	3,6
+Pedicel Length	0.8,1.2
+Flowers Per Cluster	0,999
+Stamens	0,999
+Stigma	3,4
+Ovaries	3,4
+Ovary Chambers	# TODO: Enter [min],max values here
+Flowering Period	may,june
+
+#Leaf
+Leaf Observation	teeth curved towards apex
+Bud Shape	ovoid
+Bud Colour1	BE9C81,E8DA97,8E8642
+Bud Colour2	#
+Leaflets	once pinnate
+Pinnate Type	opposite-odd
+Leaf Position	alternate
+Lf(let) Shape	lanceolate
+Lf(let) Lobed	unlobed
+Lf(let) Venation	pinnate
+Lf(let) Margin	serrate
+Lf(let) Margin Decor	none
+Lf(let) Tip	mucronate
+Lf(let) Base	unequal
+Petiole	petiolate
+Stipules	absent or lost early
+Stipule Shape	inconspicuous
+Lf(let) Vein Pairs	16,18
+Bud Length	1.0,1.7
+Leaf Ratio (L:W)	1.4,2
+Leaf Length	1325
+Petiole Length	2.4,3
+Lflets Per Lf	11,19
+Lflet Stalk Length	0.2,0.4
+Lflet Length	3,7
+Bud Texture	hairy
+Lf(let) Top Appearance	ciliate,glabrous,glossy
+Lf(let) Underside Appearance	ciliate,glabrous,dull,glaucous
+
+#Fruit
+Fruit Observation	none of the above
+Fruit Type	berry-like
+Fruit Shape	globose
+Fruit Peduncle	pedunculate
+Fruit Taste	sour,nutty,toxic!,peppery grape# TODO: Edit/choose
+Fruit Cupule	none
+Fruit Colour1	f45423,B8140B
+Fruit Colour2	463637
+Fruit Number	0,999
+Fruit Diameter	0.3,1
+Fruiting Period	august,september
+
+#Seed
+Seed Type	other
+Seed Shape	globose,irregular# TODO: Edit/choose
+Seed Released	no
+Seed Texture	smooth# TODO: Edit/choose
+Seed Colour1	992914,51333B,776837,6D5237,3B3528,DFAD7C,87643A,7d561e# TODO: Edit/choose
+Seed Colour2	B79278# TODO: Edit/choose
+Seeds Per Fruit	0,999
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Thorn Furrows	#
+Stem Colour1	aba492,92826a
+Stem Colour2	bfc1ac,b9a887
+Stem Habit	1 main stem
+Thorn Length	#
+Stem Texture	smooth,fissured
+
+#Branches
+Branching Pattern	opposite
+Lower Branch Angle	~45' upright
+Leaf Scar	u-shaped
+Twig Colour1	7d561e
+Twig Colour2	d4b1a5
+Twig Type	smooth
+
+#Root
+#Misc
+Name	Sorbus aucuparia
+Common Name	Rowan, Mountain Ash, Quicken tree
+Frequency	common
+Subspecies	none
+Data Source(s)	Sutton 1990,Webb 1963
+Similar Plants	none
+Native Status	Ireland,native,Britain,native
+Soil Preference	light soils
+Description	A smallish tree with pinnate leaves comprising lanceolate, toothed leaflets. White flowering heads and scarlet red fruit make this a tree often planted as an ornament in parks and roadsides.

@@ -1,0 +1,139 @@
+#type	Name1	Name2...	values	Dependencies
+#For divisors, - means that it is expanded by default
+#For Int, use _ for no unit
+Divisor	General	-
+Dbl	Order	aquafoliales,apiales,fabales, rosales,pinales, ericales,fagales, sapindales,lamiales,myrtales, dipsacales,taxaceae,malvales,celastrales, other
+Dbl	Family	aquafoliaceae,araliaceae,fabaceae, rosaceae, ericaceae,fagaceae, sapindaceae,oleaceae,betulaceae,onagraceae,pinaceae,corylaceae,adoxaceae,malvaceae,celestraceae,other
+Dbl	Lifespan	annual, biennial, perennial	@annual:Foliage = dicidious
+Dbl	Foliage	evergreen, dicidious
+Dbl	Structure	tree, shrub, climber, herb	@tree:Habit - creeping,climber:Habit = climbing
+Dbl	Habit	creeping, climbing, upright	@creeping:Structure - tree,upright:Structure - climber
+Dbl	Woodiness	herbaceous, woody
+Dbl	Habitat	scrub,woodland, forest, hedgerows, thickets, rocky places,heaths,pastures,mountains, riversides, roadsides,hillsides,walls and trees
+Dbl	Location	H1 (South Kerry), H2 (North Kerry), H3 (West Cork), H4 (Mid-Cork), H5 (East Cork), H6 (Waterford), H7 (South Tipperary), H8 (Limerick), H9 (Clare), H10 (North Tipperary), H11 (Kilkenny), H12 (Wexford), H13 (Carlow), H14 (Laois), H15 (South-east Galway), H16 (West Galway), H17 (North-east Galway), H18 (Offaly), H19 (Kildare), H20 (Wicklow), H21 (Dublin), H22 (Meath), H23 (Westmeath), H24 (Longford), H25 (Roscommon), H26 (East Mayo), H27 (West Mayo), H28 (Sligo), H29 (Leitrim), H30 (Cavan), H31 (Louth), H32 (Monaghan), H33 (Fermanagh), H34 (East Donegal), H35 (West Donegal), H36 (Tyrone), H37 (Armagh), H38 (Down), H39 (Antrim), H40 (Londonderry)
+Mlt	Crown Type	regular,irregular, wide,narrow, domed,rounded,conical, dense,light 
+Int	Plant Height	cm
+#@>500:Structure = tree#Not done because climbers can be more than 5m
+
+Divisor	Flower (♀/⚥)	+
+Dbl	Flower Observation	compact bud-like cluster with red spikes,wing like bract attached to flower heads,none of the above
+Mlt	Flowering Period	january, feburary, march, april, may, june, july, august, september, october, november, december
+Dbl	Flower Sex	synoecious, monoecious, dioecious	@monoecious:♂Flower divx normal,unsure:♂Flower divx normal,dioecious:♂Flower divx normal,synoecious:♂Flower divx disabled,monoecious:♂Stamens x normal,unsure:♂Stamens x normal,dioecious:♂Stamens x normal,synoecious:♂Stamens x disabled
+Dbl	Flower Type	solitary, catkin,cone,other inflorescence
+Dbl	Flower Orientation	upright,pendulant
+Dbl	Ovary Position	inferior,half-inferior, superior
+Dbl	Flower Scent	sickly-sweet,sweet, subtle,none
+Dbl	Flower Peduncle	sessile,glabrous,hairy
+Dbl	Perianth Distinct	absent, petals only, sepals only, indistinct, distinct	@indestinct:Perianth(P) x normal,indistinct:Perianth(S) x disabled,distinct:Perianth( x normal,unsure:Perianth( x normal,absent:Perianth( x disabled,petals only:Perianth(P) x normal,petals only:Perianth(S) x disabled,sepals only:Perianth(S) x normal,sepals only:Perianth(P) x disabled
+Clr	Pistil Colour1	ffe1cd,ffffff,a0a660,E6CF8E,2E1103,FC6AAB,C4001D,8d171d,ff367c,c1b2a0,B4A842,67A914,efe7fe,7a166b
+Clr	Stamen Colour1	f7d373,EEAA6A,ff367c,B4A842,a0a660,EE6495,9D565C,E9DDA9,ffffbe,efe7fe,7a166b
+Clr	Perianth(P) Colour1	FFFFFF,ffe1cd,ffffff,983030,FAD019,EEDA00,A5A303,BC7F17,332A17,CEA2FC,ff367c,E292E0,BDDB79,bd0d27,efe7fe
+Clr	Perianth(P) Colour2	9F7B67,C13C67,DDD044,F9402E,BE9140,BD807D
+Clr	Perianth(S) Colour1	6C6E3F,AAAA6A,ffe1cd,ffffff,575C22,D45A3D,737917,BFAC55,5D5202,7a166b,b88db8
+Clr	Perianth(S) Colour2	#
+Dbl	Perianth(P) Shape	ovate, eliptic,obovate #Needs better description
+Dbl	Perianth(P) Hairs	none, present
+Dbl	Perianth(P) Free	free, joined, joined forming tube
+Dbl	Perianth(S) Free	free, joined, joined forming tube
+Dbl	Perianth(S) Shape	triangular,elliptic
+Dbl	Perianth(S) Hairs	none, present
+Int	Perianth(P) Number	_
+Int	Perianth(P) Length	cm
+Int	Perianth(S) Number	_
+Int	Perianth(S) Length	cm
+Int	Flower Diameter	cm
+Int	Peduncle Length	cm
+Int	Pedicel Length	cm
+Int	Flower Number	_ #Vas ist dis???
+Int	Flowers Per Cluster	_
+Int	Stamens	_
+Int	Stigma	_
+Int	Ovaries	_
+Int	Ovary Chambers	_
+
+Divisor	♂Flower	+
+Dbl	♂Flower Type	solitary, catkin,cone,other inflorescence
+Dbl	♂Flower Orientation	upright,pendulant
+Clr	♂Stamen Colour1	B1AB46,c29451,FF0000,FB886B,E5E163
+Clr	♂Perianth(P) Colour1	FFFFFF,9c9f17,fcf98f,c29451,FAD019,5C3607,B99236
+Clr	♂Perianth(P) Colour2	9F7B67,c29451,C13C67,DDD044
+Clr	♂Perianth(S) Colour1	575C22,FAD019
+Int	♂Flower Diameter	cm
+Int	♂Flowers Per Cluster	_
+Int	♂Peduncle Length	cm
+Int	♂Stamens	_
+
+Divisor	Leaf	+
+Dbl	Leaf Observation	buds stalked,lvs reduced to scales or spines, leaves deeply lobed, startling white leaf underside,rusty brown hair on vein underside,teeth curved towards apex,dark flat needles,paired needles,none of the above
+Dbl	Bud Shape	ovoid, rounded,slender (pointed),pyramidal,curved
+Clr	Bud Colour1	BE9C81,E8DA97,8E8642,512620,E1AF30,c47649,7D9739,dbbd43,D6707B,AC650D,9a5f5d,AC512D,49341F,C4320D,FD8B32,DADAA8,D4A94D,9487b2
+Clr	Bud Colour2	D4A94D,8E8642,7D9739,D6707B,AC650D,466810,6C2626,A85061,783F2E
+Mlt	Bud Texture	smooth,hairy,glabrous,sticky,rough
+Gdd	Leaflets	simple,trifolate,palmate,once pinnate, bipinnate,tripinnate	@simple:Pinnate x disabled,trifolate:Pinnate x disabled,palmate:Pinnate x disabled,once pinnate:Pinnate x normal,bipinnate:Pinnate x normal,tripinnate:Pinnate x normal
+Gdd	Pinnate Type	opposite-odd, opposite-even, alternate
+Dbl	Leaf Position	opposite, alternate, spirally arranged
+Gdd	Lf(let) Shape	obovate, elliptic, ovate, deltoid, cordate,orbicular, reniform, fabellate, spatulate, lanceolate, linear, acicular, subulate
+#aristate, pedate, spear-shaped,  lobed, cuneate, hastate, obcordate, , truncate, digitate, obtuse, pinnatisect,  falcate, , rhomboid
+Dbl	Lf(let) Lobed	unlobed, shallowly lobed, deeply lobed
+Gdd	Lf(let) Venation	palmate, pinnate, parallel, arcuate
+Gdd	Lf(let) Margin	entire,undulate, sinuate,crenate,dentate,denticulate, serrate,doubly serrate,serrulate
+Gdd	Lf(let) Margin Decor	none, ciliate, spiny
+Mlt	Lf(let) Top Appearance	ciliate,glabrous, glossy,dull,glaucous, coriaceous
+Mlt	Lf(let) Underside Appearance	ciliate,glabrous,pale,glossy,dull,glaucous, coriaceous
+Gdd	Lf(let) Tip	acuminate, acute, obtuse, rounded, truncate, emarginate, mucronate, cuspidate
+Gdd	Lf(let) Base	cuneate, acute, rounded, truncate, cordate, auriculate, unequal, winged, connate
+Gdd	Petiole	sessile,petiolate,peltate,perfoliate
+Dbl	Stipules	absent or lost early, singly, paired
+Dbl	Stipule Shape	absent,inconspicuous, acicular, ovate, aristate, lanceolate
+Int	Lf(let) Vein Pairs	_
+Int	Bud Length	cm
+Int	Leaf Ratio (L:W)	_
+Int	Leaf Length	cm
+Int	Petiole Length	cm
+Int	Lflets Per Lf	_
+Int	Lflet Stalk Length	cm
+Int	Lflet Length	cm
+
+Divisor	Fruit	+
+Dbl	Fruit Observation	cone-like catkins,fruit have many spots,wing like bract attached to fruit,fruit mostly covered by cupule,fruit covered in pimples,fruit excessively hairy,acorns, none of the above
+Dbl	Fruit Type	berry-like,nut,spiky globule,helicopter,legume,catkin,cone,4-lobed pod-like berry
+Dbl	Fruit Shape	globose, ovoid,3-angled,4-angled,single winged,paired winged,short pod-shaped,long,4-lobed,cylindrical
+Dbl	Fruit Peduncle	sessile,pedunculate
+Dbl	Fruit Taste	sour,revolting,nutty,toxic!,peppery grape,acid
+Dbl	Fruit Cupule	none,woody splitting 4-wise,green lobed,closely overlapping scales
+Clr	Fruit Colour1	4B5979,B2A3CE,2E323A,8E9B41,EDD2B4,716348,a9ab43,B4012E,FC4E4D,FF7C95,F0A82F,C8905D,CECE92,B8140B,935c3c,973b0a,A36124,722604,7b7d1e,977e7a,EFECA7,A96E6D,000000,f45423,99701E,463637,7a3d45
+Clr	Fruit Colour2	8A6342,D0965C,000000,B4012E,FC4E4D,FF7C95,F0A82F,C8905D,CECE92,8D9DAB,463637,711b1f
+Mlt	Fruiting Period	january, feburary, march, april, may, june, july, august, september, october, november, december
+Int	Fruit Number	_
+Int	Fruit Diameter	cm
+
+Divisor	Seed	+
+Dbl	Seed Observation	orange fleshy seed coating,none of the above
+Int	Seeds Per Fruit	_
+Int	Seed Diameter	cm
+Dbl	Seed Type	stone,conker,winged nutlet,other
+Dbl	Seed Shape	globose,irregular,ellipsoid
+Dbl	Seed Released	no,yes
+Dbl	Seed Texture	smooth,leathery,rough
+Clr	Seed Colour1	7d561e,6D5237,87643A,e1ac4e,DFAD7C,472418,992914,51333B,776837,3B3528,312225,E6D28B
+Clr	Seed Colour2	B79278,32241B,a39690,e1ac4e
+
+Divisor	Stem (Trunk)	+
+Dbl	Stem Solidity	solid, partially hollow, hollow
+Dbl	Stem Form	cylindrical
+Dbl	Thorns	absent, present
+Dbl	Thorn Furrows	deep,shallow,none
+Mlt	Stem Texture	smooth, fluted, rough, flaking,scaly,fissured,peeling
+Clr	Stem Colour1	836F54,5F636C,1E2326,64696C,95998a,5F494D,92826a,989D39,A1A189,7a6a5b,8f8170,776053,8A8C81,8E8C91,77775D,ebf3f5,82614a,BDA177,626B5A,aba492,c47649
+Clr	Stem Colour2	95998a,82614a,D7D461,000000,938B7C,ebf3f5,995121,cf9776,bfc1ac,b9a887,CF9776,c59854,282820
+Dbl	Stem Habit	multi-stem (suckering), 1 main stem, main stem dividing early,crooked
+Int	Thorn Length	cm
+
+Divisor	Branches	+
+Dbl	Branching Pattern	opposite,alternate,dicotomous,complicated
+Dbl	Lower Branch Angle	perpendicular, drooping, ~45' upright
+Dbl	Leaf Scar	horse shoe shaped,u-shaped,v-shaped, circular,oval
+Mlt	Twig Type	spiny, hairy, smooth,rough,groved petiole, with resin glands,4-sided
+Clr	Twig Colour1	96513B,463F46,000000,81844D,4c181d,806a1d,7d561e,3E4B28,B76963,79582F,466105,9FA0A6,5C2A09,9994b4,BD9067,9A935F,3D3332,65523F,7C4109,C4A89C,8a1b1a
+Clr	Twig Colour2	CCB05D,81844D,3E4B28,877841,d4b1a5,f7dcad,7d561e
+Divisor	Root	+

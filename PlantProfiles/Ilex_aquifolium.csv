@@ -1,0 +1,133 @@
+#Exported File. Depending on how you exported this file, it may need extensive editing. Make sure it is usable before copying it to PlantProfiles/ directory. Any lines without # must be complete in the following format: text [tab] text (=%s	%s
+). Lines with a '#' in them are ignored. It is safe to remove this line. 
+
+#General
+Order	aquafoliales
+Family	aquafoliaceae
+Lifespan	perennial
+Foliage	evergreen
+Structure	tree,shrub
+Habit	upright
+Woodiness	woody
+Habitat	scrub,woodland
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H14 (Laois),H15 (South-east Galway),H16 (West Galway),H17 (North-east Galway),H18 (Offaly),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H23 (Westmeath),H24 (Longford),H25 (Roscommon),H26 (East Mayo),H27 (West Mayo),H28 (Sligo),H29 (Leitrim),H30 (Cavan),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)
+Plant Height	200,2500
+Crown Type	narrow,conical
+
+#Flower (♀/⚥)
+Flower Sex	dioecious
+Flower Type	other inflorescence
+Ovary Position	superior
+Flower Hairs	none# TODO: Edit/choose
+Flower Scent	sickly-sweet# TODO: Edit/choose
+Perianth Distinct	distinct
+Flower Colour1	FFFFFF
+Flower Colour2	80A10A
+Perianth(P) Colour1	FFFFFF
+Perianth(P) Colour2	9F7B67
+Perianth(S) Colour1	575C22
+Perianth(P) Hairs	none
+Perianth(P) Free	joined
+Perianth(S) Free	joined
+Perianth(S) Shape	triangular# TODO: Edit/choose
+Perianth(S) Hairs	none
+Perianth(P) Number	4
+Perianth(P) Length	0.4
+Perianth(S) Number	4
+Perianth(S) Length	0,0.5
+Flower Diameter	0.75
+Peduncle Length	# TODO: Enter [min],max values here
+Pedicle Length	# TODO: Enter [min],max values here
+Flowers Per Cluster	0,999
+Stamens	4
+Stigma	1
+Ovaries	1
+Ovary Chambers	# TODO: Enter [min],max values here
+Flowering Period	may,june,july,august
+Flower Peduncle	sessile,present,hairy# TODO: Edit/choose
+
+#♂Flower
+♂Flower Colour1	FFFFFF
+♂Flower Colour2	90760C
+♂Perianth(P) Colour1	FFFFFF
+♂Perianth(P) Colour2	9F7B67
+♂Perianth(S) Colour1	575C22
+♂Flowers Per Cluster	0,999
+♂Peduncle Length	# TODO: Enter [min],max values here
+♂Stamens	4
+
+#Leaf
+Bud Shape	ovoid
+Bud Hairs	none
+Bud Colour1	BE9C81,E8DA97,8E8642,AC650D,512620,49341F,C4320D,FD8B32,DADAA8,D4A94D,000000# TODO: Edit/choose
+Bud Colour2	A85061,D4A94D,6C2626# TODO: Edit/choose
+Bud Texture	smooth# TODO: Edit/choose
+Leaflets	simple
+Leaf Position	alternate
+Lf(let) Shape	elliptic
+Lf(let) Lobed	shallowly lobed
+Lf(let) Venation	pinnate
+Lf(let) Margin	undulate
+Lf(let) Margin Decor	spiny
+Lf(let) Tip	cuspidate
+Lf(let) Base	acute
+Petiole	petiolate
+Stipules	singly,paired
+Stipule Shape	inconspicuous,absent
+Lf(let) Vein Pairs	5,8
+Bud Length	0.2,0.3
+Leaf Ratio (L:W)	# TODO: Enter [min],max values here
+Leaf Length	5,12
+Petiole Length	1
+Lf(let) Top Appearance	glabrous,glossy,coriaceous
+Lf(let) Underside Appearance	glabrous,glossy,glaucous,coriaceous
+
+#Fruit
+Fruit Type	berry-like
+Fruit Shape	globose
+Fruit Taste	sour# TODO: Edit/choose
+Fruit Cupule	none
+Fruit Colour1	B8140B
+Fruit Colour2	000000
+Fruit Number	1,40
+Fruit Diameter	0.8,1
+Fruiting Period	january,feburary,march,september,october,november,december
+
+#Seed
+Seed Type	stone,other
+Seed Shape	globose
+Seed Released	no
+Seed Texture	smooth# TODO: Edit/choose
+Seed Colour1	992914,51333B,DFAD7C,87643A# TODO: Edit/choose
+Seed Colour2	B79278# TODO: Edit/choose
+Seeds Per Fruit	0,10
+Seed Diameter	# TODO: Enter [min],max values here
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	absent
+Stem Colour1	5F636C,989D39
+Stem Colour2	D7D461
+Stem Habit	1 main stem
+Stem Texture	smooth,fissured
+
+#Branches
+Branching Pattern	alternate
+Lower Branch Angle	~45' upright
+Leaf Scar	horse shoe shaped,u-shaped# TODO: Edit/choose
+Twig Colour1	466105,9FA0A6
+Twig Colour2	877841
+Twig Type	hairy,smooth
+
+#Root
+#Misc
+Name	Ilex aquifolium
+Common Name	Holly
+Frequency	very frequent
+Subspecies	none
+Data Source(s)	David Sutton 1990
+Similar Plants	none
+Native Status	Ireland,native,Britain,native
+Soil Preference	moist
+Description	"A stiff and prickly-leaved evergreen tree or shrub. Often sterile in deep, shady woods but in more open sites, it bears white flowers and red berries (on female trees). Higher, older leaves may become entire and loose spines. Leaves are sometimes verrigated."

@@ -1,0 +1,136 @@
+#Data herein was copied (with modifications) from U. europaeus - therefore it's accuracy is probably lower than usual
+#General
+Order	fabales
+Family	fabaceae
+Lifespan	perennial
+Foliage	evergreen
+Structure	shrub
+Habit	upright
+Woodiness	woody
+Habitat	rocky places, heaths, pastures
+Location	H1 (South Kerry),H2 (North Kerry),H3 (West Cork),H4 (Mid-Cork),H5 (East Cork),H6 (Waterford),H7 (South Tipperary),H8 (Limerick),H9 (Clare),H10 (North Tipperary),H11 (Kilkenny),H12 (Wexford),H13 (Carlow),H15 (South-east Galway),H16 (West Galway),H19 (Kildare),H20 (Wicklow),H21 (Dublin),H22 (Meath),H27 (West Mayo),H31 (Louth),H32 (Monaghan),H33 (Fermanagh),H34 (East Donegal),H35 (West Donegal),H36 (Tyrone),H37 (Armagh),H38 (Down),H39 (Antrim),H40 (Londonderry)# TODO: Edit/choose
+Plant Height	30,60
+Crown Type	irregular,wide,dense
+
+#Flower (♀/⚥)
+Flower Sex	synoecious,monoecious,dioecious# TODO: Edit/choose
+Flower Type	other inflorescence
+Ovary Position	inferior,superior# TODO: Edit/choose
+Flower Hairs	none# TODO: Edit/choose
+Flower Scent	sickly-sweet# TODO: Edit/choose
+Perianth Distinct	distinct
+Flower Colour1	FFFFFF,783C56,B4A842# TODO: Edit/choose
+Flower Colour2	9D565C# TODO: Edit/choose
+Perianth(P) Colour1	FAD019
+Perianth(S) Colour1	BFAC55
+Perianth(P) Free	free,joined,joined forming tube# TODO: Edit/choose
+Perianth(S) Free	joined
+Perianth(S) Shape	triangular# TODO: Edit/choose
+Perianth(S) Hairs	present
+Perianth(P) Number	3
+Perianth(P) Length	1.5
+Perianth(S) Number	2
+Perianth(S) Length	1
+Flower Diameter	1,1.2
+Peduncle Length	# TODO: Enter [min],max values here
+Pedicel Length	0.3,0.5
+Flowers Per Cluster	# TODO: Enter [min],max values here
+Stamens	# TODO: Enter [min],max values here
+Stigma	# TODO: Enter [min],max values here
+Ovaries	# TODO: Enter [min],max values here
+Ovary Chambers	# TODO: Enter [min],max values here
+Flowering Period	july,august,september
+Flower Peduncle	sessile,present,hairy# TODO: Edit/choose
+
+#♂Flower
+♂Flower Colour1	FFFFFF# TODO: Edit/choose
+♂Flower Colour2	90760C# TODO: Edit/choose
+♂Perianth(P) Colour1	FFFFFF,5C3607,B99236# TODO: Edit/choose
+♂Perianth(P) Colour2	C13C67,DDD044# TODO: Edit/choose
+♂Perianth(S) Colour1	575C22# TODO: Edit/choose
+♂Flowers Per Cluster	# TODO: Enter [min],max values here
+♂Peduncle Length	# TODO: Enter [min],max values here
+♂Stamens	# TODO: Enter [min],max values here
+
+#Leaf
+Leaf Observation	lvs reduced to scales or spines
+Bud Shape	ovoid,rounded,slender (pointed),pyramidal# TODO: Edit/choose
+Bud Colour1	BE9C81,E8DA97,8E8642,AC650D,512620,49341F,C4320D,FD8B32,DADAA8,D4A94D,000000# TODO: Edit/choose
+Bud Colour2	A85061,D4A94D,6C2626# TODO: Edit/choose
+Bud Texture	smooth# TODO: Edit/choose
+Leaflets	trifolate
+Pinnate Type	#
+Leaf Position	alternate
+Lf(let) Shape	acicular,elliptic,lanceolate
+Lf(let) Lobed	unlobed
+Lf(let) Venation	parallel
+Lf(let) Margin	entire
+Lf(let) Margin Decor	spiny
+Lf(let) Tip	mucronate,cuspidate
+Lf(let) Base	crunate,acute,rounded,truncate,cordate,auriculate,unequal,winged,connate# TODO: Edit/choose
+Petiole	sessile
+Stipules	absent or lost early
+Stipule Shape	absent
+Lf(let) Vein Pairs	# TODO: Enter [min],max values here
+Bud Length	# TODO: Enter [min],max values here
+Leaf Ratio (L:W)	# TODO: Enter [min],max values here
+Leaf Length	# TODO: Enter [min],max values here
+Petiole Length	# TODO: Enter [min],max values here
+Lflets Per Lf	# TODO: Enter [min],max values here
+Lflet Stalk Length	# TODO: Enter [min],max values here
+Lflet Length	# TODO: Enter [min],max values here
+Lf(let) Top Appearance	ciliate,glabrous,glossy,dull,glaucous,coriaceous# TODO: Edit/choose
+Lf(let) Underside Appearance	ciliate,glabrous,glossy,dull,glaucous,coriaceous# TODO: Edit/choose
+
+#Fruit
+Fruit Observation	fruit excessively hairy
+Fruit Type	legume
+Fruit Shape	short pod-shaped
+Fruit Taste	#
+Fruit Cupule	none
+Fruit Colour1	000000
+Fruit Colour2	8A6342,8D9DAB
+Fruit Number	1,10
+Fruit Diameter	1.5,2
+Fruiting Period	april,may
+
+#Seed
+Seed Type	other
+Seed Shape	globose
+Seed Released	yes
+Seed Texture	smooth
+Seed Colour1	776837,6D5237,3B3528
+Seed Colour2	B79278
+Seeds Per Fruit	1,8
+Seed Diameter	0.1,0.4
+
+#Stem (Trunk)
+Stem Solidity	solid
+Stem Form	cylindrical
+Thorns	present
+Stem Colour1	BDA177,8E8C91
+Stem Colour2	938B7C
+Stem Habit	multi-stem (suckering)
+Thorn Length	1,2.5
+Thorn Furrows	shallow
+Stem Texture	rough
+
+#Branches
+Branching Pattern	alternate
+Lower Branch Angle	~45' upright
+Leaf Scar	circular
+Twig Colour1	3E4B28,9A935F
+Twig Colour2	#
+Twig Type	spiny
+
+#Root
+#Misc
+Name	Ulex gallii
+Common Name	Western Gorse,Dwarf Furze
+Frequency	common
+Subspecies	none
+Data Source(s)	CTW, 1962, Webb 1963
+Similar Plants	Ulex europaeus,U. europaeus is bigger and its leaves/spines are more blue-green with brighter yellow petals and spreading sepal hairs. Straightened the keel is longer than the wings.
+Native Status	Ireland,native,Britain,native
+Soil Preference	neutral and acidic; sandy, loamy or clay.
+Description	Leaves reduced to scales at maturity, very spiny and evergreen. It has about 1.5cm long flowers with prostate hairs on the calyx and deep yellow corolla. 30-60cm tall and woody. Petals consist of 2 wings + 1 keel. Straightened the keel is shorter than the wings.

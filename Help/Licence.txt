@@ -1,0 +1,4 @@
+This is a temporary licence statement for this demonstration prototype of the project Flora Diversa.
+The intended purpose of this prototype is for demonstration. This means that you are free to test the programme only.
+Any use other than that of the intended purpose as stated above (including but not limited to the copying, modifying and/or distribution) of this programme in part or whole, without express permission from the author is forbidden.
+The author, Matthew O'Toole reserves all rights to this programme. He may be contacted at vmatthewg@gmail.com
