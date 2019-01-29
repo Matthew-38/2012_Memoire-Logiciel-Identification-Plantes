@@ -1,5 +1,6 @@
 # Bachelor Thesis Project - A plant Identification Programme in Python
 For my Bachelor Thesis at the end of my 4th year of science at NUI Galway, in 2012, I programmed a desktop application prototype in Python for helping identify plants.
+
 [Version française en bas]
 
 # Background
@@ -51,7 +52,7 @@ It seems that I was too ambitious with this project, and I put so many character
 "Normal people... believe that if it ain't broke, don't fix it. Engineers believe that if it ain't broke, it doesn't have enough features yet."
                                                                                                       - Scott Adams
 
-#############################################################################################################################
+##########################################################################################
 # [Version Française]
 
 
