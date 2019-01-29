@@ -9,10 +9,10 @@ The version here is an updated version (June 2012). After my exams and thesis su
 # Usage
 Two options exist, as a binary under Windows (recommended for testing), or using Python interpreter for the source code, under Linux
 
-1. Windows Binary
+1) Windows Binary
 To run this program and see what it is like, download the ZIP file containing the binary (FloraDiversa.exe) and complementary files, unzip them and run the exe. No special libraries are need, all is included.
 
-2. Linux (as source code)
+2) Linux (as source code)
 To launch this Python program as source, it is essential to have Python Imaging Library (PIL, not PILLOW) and Tkinter installed. I tried to make it so that this application will work with both Python 2.7 and Python 3.4, but the installation of PIL is not the same in both cases:
 
     Python 2.7 : sudo apt-get install python-pil
