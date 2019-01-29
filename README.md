@@ -49,14 +49,15 @@ It seems that I was too ambitious with this project, and I put so many character
 3. Change the GUI. Tkinter is handy but it would be much nicer with a more modern looking and adaptable GUI, like GTK.
 
 
-"Normal people... believe that if it ain't broke, don't fix it. Engineers believe that if it ain't broke, it doesn't have enough features yet."
+"Normal people... believe that if it ain't broke, don't fix it. 
+Engineers believe that if it ain't broke, it doesn't have enough features yet."
                                                                                                       - Scott Adams
 
 ##########################################################################################
-# [Version Française]
+# Version Française
 
 
-# 2012_Memoire-Logiciel-Identification-Plantes
+# 2012 Memoire : Logiciel d'Identification des Plantes
 Pour mon mémoire de L4, j'ai programmé un logiciel prototype en Python pour l'identification des plantes
 
 # Contexte
