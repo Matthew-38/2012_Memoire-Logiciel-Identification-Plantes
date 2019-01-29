@@ -15,9 +15,9 @@ To run this program and see what it is like, download the ZIP file containing th
 2. Linux (as source code)
 To launch this Python program as source, it is essential to have Python Imaging Library (PIL, not PILLOW) and Tkinter installed. I tried to make it so that this application will work with both Python 2.7 and Python 3.4, but the installation of PIL is not the same in both cases:
 
-Python 2.7 : sudo apt-get install python-pil
-31
-Python 3 : sudo apt-get install python3-pil.imagetk
+    Python 2.7 : sudo apt-get install python-pil
+
+    Python 3 : sudo apt-get install python3-pil.imagetk
 
 For the windows _source_, I have a separate file (not included), which allows functions like correct mouse wheel scrolling. If you want to test this under Windows as source (with the libraries installed), let me know and I can add the Windows source code.
 
@@ -68,8 +68,8 @@ Et lorsque le prototype pour mon mémoire comprennait comme exemple les espèces
 
 Pour lancer cette programme Python, il faut obligatoirement avoir Python Imaging Library (PIL, et non pas PILLOW) et Tkinter installé. J'ai essayé de faire en sorte que le logiciel marche dans Python 2.7 et 3.4 mais l'installation de PIL n'est pas la même dans les deux cas :
 
-Python 2.7 : sudo apt-get install python-pil
-Python 3 : sudo apt-get install python3-pil.imagetk
+    Python 2.7 : sudo apt-get install python-pil
+    Python 3 : sudo apt-get install python3-pil.imagetk
 
 Pour Windows, il existe une version un peu different (pour que certaines fonctionallités comme le scroll souris marchent). Merci de me demander si vous avez pas Linux et vous voulez tester ceci. Mais si vous voulez le voir marcher simplement, vous pouvez télécharger le binaire Windows dans le fichier ZIP. Avec ceci vous voyez pas le code, mais l'avantage est qu'il n'y a pas besoin d'installer des modules/bibliothèques etc. 
 
