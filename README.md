@@ -1,4 +1,4 @@
-# Bachelor Thesis Project - A plant Identification Programme in Python
+# Bachelor Thesis Project - A Plant Identification Program in Python
 For my Bachelor Thesis at the end of my 4th year of science at NUI Galway, in 2012, I programmed a desktop application prototype in Python for helping identify plants.
 
 [Version française en bas]
